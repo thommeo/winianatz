@@ -1,0 +1,115 @@
+name: Update Windows Timezone Mappings
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Run weekly on Mondays at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Run generator
+        run: make generate
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet windowsiana.go windowsZones.xml; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected"
+          fi
+
+      - name: Create Pull Request
+        if: steps.check_changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: Update Windows timezone mappings from CLDR
+          title: Update Windows timezone mappings
+          body: |
+            This PR updates the Windows to IANA timezone mappings from the latest CLDR data.
+
+            Source: https://github.com/unicode-org/cldr/blob/main/common/supplemental/windowsZones.xml
+
+            Changes detected in windowsZones.xml and regenerated windowsiana.go accordingly.
+          branch: update-timezones-${{ github.run_number }}
+          delete-branch: true
+          labels: |
+            dependencies
+            automated
+
+  release:
+    needs: update
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Get last commit message
+        id: commit
+        run: |
+          echo "message=$(git log -1 --pretty=%s)" >> $GITHUB_OUTPUT
+
+      - name: Check if update commit
+        id: check_update
+        run: |
+          if [[ "${{ steps.commit.outputs.message }}" == "Update Windows timezone mappings"* ]]; then
+            echo "is_update=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_update=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Get next version
+        if: steps.check_update.outputs.is_update == 'true'
+        id: version
+        run: |
+          # Get latest tag
+          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.0.0")
+
+          # Extract version numbers
+          VERSION=${LATEST_TAG#v}
+          IFS='.' read -r -a VERSION_PARTS <<< "$VERSION"
+
+          # Increment patch version
+          PATCH=$((VERSION_PARTS[2] + 1))
+          NEW_VERSION="v${VERSION_PARTS[0]}.${VERSION_PARTS[1]}.$PATCH"
+
+          echo "version=$NEW_VERSION" >> $GITHUB_OUTPUT
+          echo "Next version: $NEW_VERSION"
+
+      - name: Create Release
+        if: steps.check_update.outputs.is_update == 'true'
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          release_name: Release ${{ steps.version.outputs.version }}
+          body: |
+            ## Changes
+
+            ${{ steps.commit.outputs.message }}
+
+            This release updates the Windows to IANA timezone mappings from the latest Unicode CLDR data.
+          draft: false
+          prerelease: false
