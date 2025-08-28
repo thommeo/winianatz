@@ -4,6 +4,8 @@ A Go package that provides support for converting date timezones from the non-st
 
 This package is auto-generated from the [Unicode CLDR project's windowsZones.xml](https://github.com/unicode-org/cldr/blob/main/common/supplemental/windowsZones.xml) file. Repository updates the data on a weekly basis. If data or code change is detected, a pull request will be generated automatically.
 
+See [verification report](./VERIFY.md) for cross check results between [Microsoft Graph API supported timezones](./references/msgraph-supported-timezones-windows.json) and IANA timezones.
+
 Inspired by: https://github.com/thinkovation/windowsiana
 
 ## Installation

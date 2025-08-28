@@ -1,0 +1,2213 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#Collection(microsoft.graph.timeZoneInformation)",
+  "value": [
+    {
+      "alias": "Etc/GMT+12",
+      "displayName": "Etc/GMT+12"
+    },
+    {
+      "alias": "Etc/GMT+11",
+      "displayName": "Etc/GMT+11"
+    },
+    {
+      "alias": "Pacific/Pago_Pago",
+      "displayName": "Pacific/Pago_Pago"
+    },
+    {
+      "alias": "Pacific/Niue",
+      "displayName": "Pacific/Niue"
+    },
+    {
+      "alias": "Pacific/Midway",
+      "displayName": "Pacific/Midway"
+    },
+    {
+      "alias": "US/Samoa",
+      "displayName": "US/Samoa"
+    },
+    {
+      "alias": "Pacific/Apia",
+      "displayName": "Pacific/Apia"
+    },
+    {
+      "alias": "US/Aleutian",
+      "displayName": "US/Aleutian"
+    },
+    {
+      "alias": "America/Atka",
+      "displayName": "America/Atka"
+    },
+    {
+      "alias": "America/Adak",
+      "displayName": "America/Adak"
+    },
+    {
+      "alias": "Pacific/Johnston",
+      "displayName": "Pacific/Johnston"
+    },
+    {
+      "alias": "Pacific/Rarotonga",
+      "displayName": "Pacific/Rarotonga"
+    },
+    {
+      "alias": "Pacific/Tahiti",
+      "displayName": "Pacific/Tahiti"
+    },
+    {
+      "alias": "Etc/GMT+10",
+      "displayName": "Etc/GMT+10"
+    },
+    {
+      "alias": "US/Hawaii",
+      "displayName": "US/Hawaii"
+    },
+    {
+      "alias": "Pacific/Honolulu",
+      "displayName": "Pacific/Honolulu"
+    },
+    {
+      "alias": "Pacific/Marquesas",
+      "displayName": "Pacific/Marquesas"
+    },
+    {
+      "alias": "America/Nome",
+      "displayName": "America/Nome"
+    },
+    {
+      "alias": "US/Alaska",
+      "displayName": "US/Alaska"
+    },
+    {
+      "alias": "America/Yakutat",
+      "displayName": "America/Yakutat"
+    },
+    {
+      "alias": "America/Sitka",
+      "displayName": "America/Sitka"
+    },
+    {
+      "alias": "America/Juneau",
+      "displayName": "America/Juneau"
+    },
+    {
+      "alias": "America/Anchorage",
+      "displayName": "America/Anchorage"
+    },
+    {
+      "alias": "Pacific/Gambier",
+      "displayName": "Pacific/Gambier"
+    },
+    {
+      "alias": "Etc/GMT+9",
+      "displayName": "Etc/GMT+9"
+    },
+    {
+      "alias": "America/Fort_Nelson",
+      "displayName": "America/Fort_Nelson"
+    },
+    {
+      "alias": "America/Creston",
+      "displayName": "America/Creston"
+    },
+    {
+      "alias": "America/Dawson",
+      "displayName": "America/Dawson"
+    },
+    {
+      "alias": "America/Dawson_Creek",
+      "displayName": "America/Dawson_Creek"
+    },
+    {
+      "alias": "America/Whitehorse",
+      "displayName": "America/Whitehorse"
+    },
+    {
+      "alias": "Canada/Yukon",
+      "displayName": "Canada/Yukon"
+    },
+    {
+      "alias": "America/Tijuana",
+      "displayName": "America/Tijuana"
+    },
+    {
+      "alias": "America/Santa_Isabel",
+      "displayName": "America/Santa_Isabel"
+    },
+    {
+      "alias": "Mexico/BajaNorte",
+      "displayName": "Mexico/BajaNorte"
+    },
+    {
+      "alias": "America/Ensenada",
+      "displayName": "America/Ensenada"
+    },
+    {
+      "alias": "Pacific/Pitcairn",
+      "displayName": "Pacific/Pitcairn"
+    },
+    {
+      "alias": "Etc/GMT+8",
+      "displayName": "Etc/GMT+8"
+    },
+    {
+      "alias": "America/Metlakatla",
+      "displayName": "America/Metlakatla"
+    },
+    {
+      "alias": "Canada/Pacific",
+      "displayName": "Canada/Pacific"
+    },
+    {
+      "alias": "PST8PDT",
+      "displayName": "PST8PDT"
+    },
+    {
+      "alias": "America/Los_Angeles",
+      "displayName": "America/Los_Angeles"
+    },
+    {
+      "alias": "US/Pacific",
+      "displayName": "US/Pacific"
+    },
+    {
+      "alias": "America/Vancouver",
+      "displayName": "America/Vancouver"
+    },
+    {
+      "alias": "America/Hermosillo",
+      "displayName": "America/Hermosillo"
+    },
+    {
+      "alias": "US/Arizona",
+      "displayName": "US/Arizona"
+    },
+    {
+      "alias": "Etc/GMT+7",
+      "displayName": "Etc/GMT+7"
+    },
+    {
+      "alias": "America/Phoenix",
+      "displayName": "America/Phoenix"
+    },
+    {
+      "alias": "America/Mazatlan",
+      "displayName": "America/Mazatlan"
+    },
+    {
+      "alias": "Mexico/BajaSur",
+      "displayName": "Mexico/BajaSur"
+    },
+    {
+      "alias": "America/Shiprock",
+      "displayName": "America/Shiprock"
+    },
+    {
+      "alias": "America/Ciudad_Juarez",
+      "displayName": "America/Ciudad_Juarez"
+    },
+    {
+      "alias": "Canada/Mountain",
+      "displayName": "Canada/Mountain"
+    },
+    {
+      "alias": "America/Inuvik",
+      "displayName": "America/Inuvik"
+    },
+    {
+      "alias": "US/Mountain",
+      "displayName": "US/Mountain"
+    },
+    {
+      "alias": "MST7MDT",
+      "displayName": "MST7MDT"
+    },
+    {
+      "alias": "America/Denver",
+      "displayName": "America/Denver"
+    },
+    {
+      "alias": "America/Edmonton",
+      "displayName": "America/Edmonton"
+    },
+    {
+      "alias": "America/Yellowknife",
+      "displayName": "America/Yellowknife"
+    },
+    {
+      "alias": "America/Boise",
+      "displayName": "America/Boise"
+    },
+    {
+      "alias": "America/Cambridge_Bay",
+      "displayName": "America/Cambridge_Bay"
+    },
+    {
+      "alias": "America/Cancun",
+      "displayName": "America/Cancun"
+    },
+    {
+      "alias": "America/Managua",
+      "displayName": "America/Managua"
+    },
+    {
+      "alias": "America/Belize",
+      "displayName": "America/Belize"
+    },
+    {
+      "alias": "Etc/GMT+6",
+      "displayName": "Etc/GMT+6"
+    },
+    {
+      "alias": "America/Costa_Rica",
+      "displayName": "America/Costa_Rica"
+    },
+    {
+      "alias": "America/Guatemala",
+      "displayName": "America/Guatemala"
+    },
+    {
+      "alias": "Pacific/Galapagos",
+      "displayName": "Pacific/Galapagos"
+    },
+    {
+      "alias": "America/Tegucigalpa",
+      "displayName": "America/Tegucigalpa"
+    },
+    {
+      "alias": "America/El_Salvador",
+      "displayName": "America/El_Salvador"
+    },
+    {
+      "alias": "America/North_Dakota/New_Salem",
+      "displayName": "America/North_Dakota/New_Salem"
+    },
+    {
+      "alias": "US/Indiana-Starke",
+      "displayName": "US/Indiana-Starke"
+    },
+    {
+      "alias": "America/Indiana/Tell_City",
+      "displayName": "America/Indiana/Tell_City"
+    },
+    {
+      "alias": "America/Matamoros",
+      "displayName": "America/Matamoros"
+    },
+    {
+      "alias": "America/Rainy_River",
+      "displayName": "America/Rainy_River"
+    },
+    {
+      "alias": "America/Knox_IN",
+      "displayName": "America/Knox_IN"
+    },
+    {
+      "alias": "America/Rankin_Inlet",
+      "displayName": "America/Rankin_Inlet"
+    },
+    {
+      "alias": "America/Chicago",
+      "displayName": "America/Chicago"
+    },
+    {
+      "alias": "America/Ojinaga",
+      "displayName": "America/Ojinaga"
+    },
+    {
+      "alias": "America/North_Dakota/Beulah",
+      "displayName": "America/North_Dakota/Beulah"
+    },
+    {
+      "alias": "America/Indiana/Knox",
+      "displayName": "America/Indiana/Knox"
+    },
+    {
+      "alias": "America/Winnipeg",
+      "displayName": "America/Winnipeg"
+    },
+    {
+      "alias": "America/Menominee",
+      "displayName": "America/Menominee"
+    },
+    {
+      "alias": "America/Resolute",
+      "displayName": "America/Resolute"
+    },
+    {
+      "alias": "CST6CDT",
+      "displayName": "CST6CDT"
+    },
+    {
+      "alias": "America/North_Dakota/Center",
+      "displayName": "America/North_Dakota/Center"
+    },
+    {
+      "alias": "Canada/Central",
+      "displayName": "Canada/Central"
+    },
+    {
+      "alias": "US/Central",
+      "displayName": "US/Central"
+    },
+    {
+      "alias": "Pacific/Easter",
+      "displayName": "Pacific/Easter"
+    },
+    {
+      "alias": "Chile/EasterIsland",
+      "displayName": "Chile/EasterIsland"
+    },
+    {
+      "alias": "America/Monterrey",
+      "displayName": "America/Monterrey"
+    },
+    {
+      "alias": "America/Bahia_Banderas",
+      "displayName": "America/Bahia_Banderas"
+    },
+    {
+      "alias": "America/Mexico_City",
+      "displayName": "America/Mexico_City"
+    },
+    {
+      "alias": "America/Merida",
+      "displayName": "America/Merida"
+    },
+    {
+      "alias": "America/Chihuahua",
+      "displayName": "America/Chihuahua"
+    },
+    {
+      "alias": "Mexico/General",
+      "displayName": "Mexico/General"
+    },
+    {
+      "alias": "America/Regina",
+      "displayName": "America/Regina"
+    },
+    {
+      "alias": "Canada/Saskatchewan",
+      "displayName": "Canada/Saskatchewan"
+    },
+    {
+      "alias": "America/Swift_Current",
+      "displayName": "America/Swift_Current"
+    },
+    {
+      "alias": "America/Panama",
+      "displayName": "America/Panama"
+    },
+    {
+      "alias": "America/Guayaquil",
+      "displayName": "America/Guayaquil"
+    },
+    {
+      "alias": "America/Coral_Harbour",
+      "displayName": "America/Coral_Harbour"
+    },
+    {
+      "alias": "Brazil/Acre",
+      "displayName": "Brazil/Acre"
+    },
+    {
+      "alias": "Jamaica",
+      "displayName": "Jamaica"
+    },
+    {
+      "alias": "Etc/GMT+5",
+      "displayName": "Etc/GMT+5"
+    },
+    {
+      "alias": "America/Rio_Branco",
+      "displayName": "America/Rio_Branco"
+    },
+    {
+      "alias": "America/Eirunepe",
+      "displayName": "America/Eirunepe"
+    },
+    {
+      "alias": "America/Cayman",
+      "displayName": "America/Cayman"
+    },
+    {
+      "alias": "America/Jamaica",
+      "displayName": "America/Jamaica"
+    },
+    {
+      "alias": "America/Bogota",
+      "displayName": "America/Bogota"
+    },
+    {
+      "alias": "America/Lima",
+      "displayName": "America/Lima"
+    },
+    {
+      "alias": "America/Porto_Acre",
+      "displayName": "America/Porto_Acre"
+    },
+    {
+      "alias": "America/Atikokan",
+      "displayName": "America/Atikokan"
+    },
+    {
+      "alias": "America/Kentucky/Monticello",
+      "displayName": "America/Kentucky/Monticello"
+    },
+    {
+      "alias": "America/Louisville",
+      "displayName": "America/Louisville"
+    },
+    {
+      "alias": "America/Nassau",
+      "displayName": "America/Nassau"
+    },
+    {
+      "alias": "America/Pangnirtung",
+      "displayName": "America/Pangnirtung"
+    },
+    {
+      "alias": "America/Indiana/Winamac",
+      "displayName": "America/Indiana/Winamac"
+    },
+    {
+      "alias": "America/Detroit",
+      "displayName": "America/Detroit"
+    },
+    {
+      "alias": "America/New_York",
+      "displayName": "America/New_York"
+    },
+    {
+      "alias": "US/Michigan",
+      "displayName": "US/Michigan"
+    },
+    {
+      "alias": "US/Eastern",
+      "displayName": "US/Eastern"
+    },
+    {
+      "alias": "EST5EDT",
+      "displayName": "EST5EDT"
+    },
+    {
+      "alias": "America/Thunder_Bay",
+      "displayName": "America/Thunder_Bay"
+    },
+    {
+      "alias": "Canada/Eastern",
+      "displayName": "Canada/Eastern"
+    },
+    {
+      "alias": "America/Toronto",
+      "displayName": "America/Toronto"
+    },
+    {
+      "alias": "America/Kentucky/Louisville",
+      "displayName": "America/Kentucky/Louisville"
+    },
+    {
+      "alias": "America/Nipigon",
+      "displayName": "America/Nipigon"
+    },
+    {
+      "alias": "America/Montreal",
+      "displayName": "America/Montreal"
+    },
+    {
+      "alias": "America/Iqaluit",
+      "displayName": "America/Iqaluit"
+    },
+    {
+      "alias": "America/Indiana/Vincennes",
+      "displayName": "America/Indiana/Vincennes"
+    },
+    {
+      "alias": "America/Indiana/Petersburg",
+      "displayName": "America/Indiana/Petersburg"
+    },
+    {
+      "alias": "America/Port-au-Prince",
+      "displayName": "America/Port-au-Prince"
+    },
+    {
+      "alias": "Cuba",
+      "displayName": "Cuba"
+    },
+    {
+      "alias": "America/Havana",
+      "displayName": "America/Havana"
+    },
+    {
+      "alias": "America/Indiana/Marengo",
+      "displayName": "America/Indiana/Marengo"
+    },
+    {
+      "alias": "America/Indiana/Vevay",
+      "displayName": "America/Indiana/Vevay"
+    },
+    {
+      "alias": "America/Indianapolis",
+      "displayName": "America/Indianapolis"
+    },
+    {
+      "alias": "America/Fort_Wayne",
+      "displayName": "America/Fort_Wayne"
+    },
+    {
+      "alias": "US/East-Indiana",
+      "displayName": "US/East-Indiana"
+    },
+    {
+      "alias": "America/Indiana/Indianapolis",
+      "displayName": "America/Indiana/Indianapolis"
+    },
+    {
+      "alias": "America/Grand_Turk",
+      "displayName": "America/Grand_Turk"
+    },
+    {
+      "alias": "America/Caracas",
+      "displayName": "America/Caracas"
+    },
+    {
+      "alias": "America/Punta_Arenas",
+      "displayName": "America/Punta_Arenas"
+    },
+    {
+      "alias": "America/Asuncion",
+      "displayName": "America/Asuncion"
+    },
+    {
+      "alias": "Atlantic/Bermuda",
+      "displayName": "Atlantic/Bermuda"
+    },
+    {
+      "alias": "America/Moncton",
+      "displayName": "America/Moncton"
+    },
+    {
+      "alias": "Canada/Atlantic",
+      "displayName": "Canada/Atlantic"
+    },
+    {
+      "alias": "America/Glace_Bay",
+      "displayName": "America/Glace_Bay"
+    },
+    {
+      "alias": "America/Thule",
+      "displayName": "America/Thule"
+    },
+    {
+      "alias": "America/Halifax",
+      "displayName": "America/Halifax"
+    },
+    {
+      "alias": "America/Goose_Bay",
+      "displayName": "America/Goose_Bay"
+    },
+    {
+      "alias": "America/Campo_Grande",
+      "displayName": "America/Campo_Grande"
+    },
+    {
+      "alias": "America/Cuiaba",
+      "displayName": "America/Cuiaba"
+    },
+    {
+      "alias": "America/Guadeloupe",
+      "displayName": "America/Guadeloupe"
+    },
+    {
+      "alias": "America/Port_of_Spain",
+      "displayName": "America/Port_of_Spain"
+    },
+    {
+      "alias": "America/Guyana",
+      "displayName": "America/Guyana"
+    },
+    {
+      "alias": "America/Aruba",
+      "displayName": "America/Aruba"
+    },
+    {
+      "alias": "America/Barbados",
+      "displayName": "America/Barbados"
+    },
+    {
+      "alias": "America/Manaus",
+      "displayName": "America/Manaus"
+    },
+    {
+      "alias": "America/Lower_Princes",
+      "displayName": "America/Lower_Princes"
+    },
+    {
+      "alias": "America/St_Barthelemy",
+      "displayName": "America/St_Barthelemy"
+    },
+    {
+      "alias": "America/Porto_Velho",
+      "displayName": "America/Porto_Velho"
+    },
+    {
+      "alias": "America/Santo_Domingo",
+      "displayName": "America/Santo_Domingo"
+    },
+    {
+      "alias": "America/Kralendijk",
+      "displayName": "America/Kralendijk"
+    },
+    {
+      "alias": "America/Boa_Vista",
+      "displayName": "America/Boa_Vista"
+    },
+    {
+      "alias": "America/Blanc-Sablon",
+      "displayName": "America/Blanc-Sablon"
+    },
+    {
+      "alias": "America/Puerto_Rico",
+      "displayName": "America/Puerto_Rico"
+    },
+    {
+      "alias": "America/Curacao",
+      "displayName": "America/Curacao"
+    },
+    {
+      "alias": "America/Dominica",
+      "displayName": "America/Dominica"
+    },
+    {
+      "alias": "America/Grenada",
+      "displayName": "America/Grenada"
+    },
+    {
+      "alias": "America/Virgin",
+      "displayName": "America/Virgin"
+    },
+    {
+      "alias": "America/Montserrat",
+      "displayName": "America/Montserrat"
+    },
+    {
+      "alias": "America/St_Vincent",
+      "displayName": "America/St_Vincent"
+    },
+    {
+      "alias": "Etc/GMT+4",
+      "displayName": "Etc/GMT+4"
+    },
+    {
+      "alias": "America/St_Kitts",
+      "displayName": "America/St_Kitts"
+    },
+    {
+      "alias": "America/Antigua",
+      "displayName": "America/Antigua"
+    },
+    {
+      "alias": "America/Anguilla",
+      "displayName": "America/Anguilla"
+    },
+    {
+      "alias": "America/Tortola",
+      "displayName": "America/Tortola"
+    },
+    {
+      "alias": "America/Martinique",
+      "displayName": "America/Martinique"
+    },
+    {
+      "alias": "Brazil/West",
+      "displayName": "Brazil/West"
+    },
+    {
+      "alias": "America/St_Thomas",
+      "displayName": "America/St_Thomas"
+    },
+    {
+      "alias": "America/Marigot",
+      "displayName": "America/Marigot"
+    },
+    {
+      "alias": "America/La_Paz",
+      "displayName": "America/La_Paz"
+    },
+    {
+      "alias": "America/St_Lucia",
+      "displayName": "America/St_Lucia"
+    },
+    {
+      "alias": "Chile/Continental",
+      "displayName": "Chile/Continental"
+    },
+    {
+      "alias": "America/Santiago",
+      "displayName": "America/Santiago"
+    },
+    {
+      "alias": "Canada/Newfoundland",
+      "displayName": "Canada/Newfoundland"
+    },
+    {
+      "alias": "America/St_Johns",
+      "displayName": "America/St_Johns"
+    },
+    {
+      "alias": "America/Araguaina",
+      "displayName": "America/Araguaina"
+    },
+    {
+      "alias": "Brazil/East",
+      "displayName": "Brazil/East"
+    },
+    {
+      "alias": "America/Sao_Paulo",
+      "displayName": "America/Sao_Paulo"
+    },
+    {
+      "alias": "America/Paramaribo",
+      "displayName": "America/Paramaribo"
+    },
+    {
+      "alias": "Etc/GMT+3",
+      "displayName": "Etc/GMT+3"
+    },
+    {
+      "alias": "America/Santarem",
+      "displayName": "America/Santarem"
+    },
+    {
+      "alias": "Atlantic/Stanley",
+      "displayName": "Atlantic/Stanley"
+    },
+    {
+      "alias": "America/Recife",
+      "displayName": "America/Recife"
+    },
+    {
+      "alias": "America/Fortaleza",
+      "displayName": "America/Fortaleza"
+    },
+    {
+      "alias": "America/Maceio",
+      "displayName": "America/Maceio"
+    },
+    {
+      "alias": "America/Cayenne",
+      "displayName": "America/Cayenne"
+    },
+    {
+      "alias": "Antarctica/Palmer",
+      "displayName": "Antarctica/Palmer"
+    },
+    {
+      "alias": "America/Belem",
+      "displayName": "America/Belem"
+    },
+    {
+      "alias": "Antarctica/Rothera",
+      "displayName": "Antarctica/Rothera"
+    },
+    {
+      "alias": "America/Argentina/Buenos_Aires",
+      "displayName": "America/Argentina/Buenos_Aires"
+    },
+    {
+      "alias": "America/Mendoza",
+      "displayName": "America/Mendoza"
+    },
+    {
+      "alias": "America/Argentina/ComodRivadavia",
+      "displayName": "America/Argentina/ComodRivadavia"
+    },
+    {
+      "alias": "America/Rosario",
+      "displayName": "America/Rosario"
+    },
+    {
+      "alias": "America/Jujuy",
+      "displayName": "America/Jujuy"
+    },
+    {
+      "alias": "America/Argentina/Tucuman",
+      "displayName": "America/Argentina/Tucuman"
+    },
+    {
+      "alias": "America/Argentina/Cordoba",
+      "displayName": "America/Argentina/Cordoba"
+    },
+    {
+      "alias": "America/Argentina/Catamarca",
+      "displayName": "America/Argentina/Catamarca"
+    },
+    {
+      "alias": "America/Argentina/Mendoza",
+      "displayName": "America/Argentina/Mendoza"
+    },
+    {
+      "alias": "America/Argentina/Rio_Gallegos",
+      "displayName": "America/Argentina/Rio_Gallegos"
+    },
+    {
+      "alias": "America/Cordoba",
+      "displayName": "America/Cordoba"
+    },
+    {
+      "alias": "America/Argentina/San_Luis",
+      "displayName": "America/Argentina/San_Luis"
+    },
+    {
+      "alias": "America/Argentina/Jujuy",
+      "displayName": "America/Argentina/Jujuy"
+    },
+    {
+      "alias": "America/Catamarca",
+      "displayName": "America/Catamarca"
+    },
+    {
+      "alias": "America/Argentina/San_Juan",
+      "displayName": "America/Argentina/San_Juan"
+    },
+    {
+      "alias": "America/Buenos_Aires",
+      "displayName": "America/Buenos_Aires"
+    },
+    {
+      "alias": "America/Argentina/Ushuaia",
+      "displayName": "America/Argentina/Ushuaia"
+    },
+    {
+      "alias": "America/Argentina/Salta",
+      "displayName": "America/Argentina/Salta"
+    },
+    {
+      "alias": "America/Argentina/La_Rioja",
+      "displayName": "America/Argentina/La_Rioja"
+    },
+    {
+      "alias": "America/Godthab",
+      "displayName": "America/Godthab"
+    },
+    {
+      "alias": "America/Montevideo",
+      "displayName": "America/Montevideo"
+    },
+    {
+      "alias": "America/Miquelon",
+      "displayName": "America/Miquelon"
+    },
+    {
+      "alias": "America/Bahia",
+      "displayName": "America/Bahia"
+    },
+    {
+      "alias": "America/Noronha",
+      "displayName": "America/Noronha"
+    },
+    {
+      "alias": "Etc/GMT+2",
+      "displayName": "Etc/GMT+2"
+    },
+    {
+      "alias": "Atlantic/South_Georgia",
+      "displayName": "Atlantic/South_Georgia"
+    },
+    {
+      "alias": "Brazil/DeNoronha",
+      "displayName": "Brazil/DeNoronha"
+    },
+    {
+      "alias": "Atlantic/Azores",
+      "displayName": "Atlantic/Azores"
+    },
+    {
+      "alias": "America/Scoresbysund",
+      "displayName": "America/Scoresbysund"
+    },
+    {
+      "alias": "Atlantic/Cape_Verde",
+      "displayName": "Atlantic/Cape_Verde"
+    },
+    {
+      "alias": "Etc/GMT+1",
+      "displayName": "Etc/GMT+1"
+    },
+    {
+      "alias": "GMT",
+      "displayName": "GMT"
+    },
+    {
+      "alias": "Etc/GMT",
+      "displayName": "Etc/GMT"
+    },
+    {
+      "alias": "Etc/UTC",
+      "displayName": "Etc/UTC"
+    },
+    {
+      "alias": "GMT+0",
+      "displayName": "GMT+0"
+    },
+    {
+      "alias": "Europe/London",
+      "displayName": "Europe/London"
+    },
+    {
+      "alias": "Europe/Guernsey",
+      "displayName": "Europe/Guernsey"
+    },
+    {
+      "alias": "Europe/Jersey",
+      "displayName": "Europe/Jersey"
+    },
+    {
+      "alias": "Atlantic/Faroe",
+      "displayName": "Atlantic/Faroe"
+    },
+    {
+      "alias": "Atlantic/Canary",
+      "displayName": "Atlantic/Canary"
+    },
+    {
+      "alias": "Europe/Lisbon",
+      "displayName": "Europe/Lisbon"
+    },
+    {
+      "alias": "Atlantic/Faeroe",
+      "displayName": "Atlantic/Faeroe"
+    },
+    {
+      "alias": "Europe/Dublin",
+      "displayName": "Europe/Dublin"
+    },
+    {
+      "alias": "Europe/Isle_of_Man",
+      "displayName": "Europe/Isle_of_Man"
+    },
+    {
+      "alias": "Europe/Belfast",
+      "displayName": "Europe/Belfast"
+    },
+    {
+      "alias": "Atlantic/Madeira",
+      "displayName": "Atlantic/Madeira"
+    },
+    {
+      "alias": "Eire",
+      "displayName": "Eire"
+    },
+    {
+      "alias": "Africa/Monrovia",
+      "displayName": "Africa/Monrovia"
+    },
+    {
+      "alias": "Africa/Accra",
+      "displayName": "Africa/Accra"
+    },
+    {
+      "alias": "Atlantic/St_Helena",
+      "displayName": "Atlantic/St_Helena"
+    },
+    {
+      "alias": "America/Danmarkshavn",
+      "displayName": "America/Danmarkshavn"
+    },
+    {
+      "alias": "Africa/Dakar",
+      "displayName": "Africa/Dakar"
+    },
+    {
+      "alias": "Africa/Conakry",
+      "displayName": "Africa/Conakry"
+    },
+    {
+      "alias": "Africa/Nouakchott",
+      "displayName": "Africa/Nouakchott"
+    },
+    {
+      "alias": "Atlantic/Reykjavik",
+      "displayName": "Atlantic/Reykjavik"
+    },
+    {
+      "alias": "Africa/Timbuktu",
+      "displayName": "Africa/Timbuktu"
+    },
+    {
+      "alias": "Africa/Lome",
+      "displayName": "Africa/Lome"
+    },
+    {
+      "alias": "Africa/Bamako",
+      "displayName": "Africa/Bamako"
+    },
+    {
+      "alias": "Africa/Banjul",
+      "displayName": "Africa/Banjul"
+    },
+    {
+      "alias": "Africa/Freetown",
+      "displayName": "Africa/Freetown"
+    },
+    {
+      "alias": "Africa/Abidjan",
+      "displayName": "Africa/Abidjan"
+    },
+    {
+      "alias": "Africa/Ouagadougou",
+      "displayName": "Africa/Ouagadougou"
+    },
+    {
+      "alias": "Africa/Bissau",
+      "displayName": "Africa/Bissau"
+    },
+    {
+      "alias": "Africa/Casablanca",
+      "displayName": "Africa/Casablanca"
+    },
+    {
+      "alias": "Africa/El_Aaiun",
+      "displayName": "Africa/El_Aaiun"
+    },
+    {
+      "alias": "Europe/Amsterdam",
+      "displayName": "Europe/Amsterdam"
+    },
+    {
+      "alias": "Europe/Malta",
+      "displayName": "Europe/Malta"
+    },
+    {
+      "alias": "Europe/Luxembourg",
+      "displayName": "Europe/Luxembourg"
+    },
+    {
+      "alias": "Europe/Rome",
+      "displayName": "Europe/Rome"
+    },
+    {
+      "alias": "Europe/Oslo",
+      "displayName": "Europe/Oslo"
+    },
+    {
+      "alias": "Europe/Vaduz",
+      "displayName": "Europe/Vaduz"
+    },
+    {
+      "alias": "Europe/Gibraltar",
+      "displayName": "Europe/Gibraltar"
+    },
+    {
+      "alias": "Europe/Monaco",
+      "displayName": "Europe/Monaco"
+    },
+    {
+      "alias": "Atlantic/Jan_Mayen",
+      "displayName": "Atlantic/Jan_Mayen"
+    },
+    {
+      "alias": "Europe/Berlin",
+      "displayName": "Europe/Berlin"
+    },
+    {
+      "alias": "Europe/Stockholm",
+      "displayName": "Europe/Stockholm"
+    },
+    {
+      "alias": "Europe/Vatican",
+      "displayName": "Europe/Vatican"
+    },
+    {
+      "alias": "Europe/Andorra",
+      "displayName": "Europe/Andorra"
+    },
+    {
+      "alias": "Europe/Busingen",
+      "displayName": "Europe/Busingen"
+    },
+    {
+      "alias": "Europe/Vienna",
+      "displayName": "Europe/Vienna"
+    },
+    {
+      "alias": "Europe/San_Marino",
+      "displayName": "Europe/San_Marino"
+    },
+    {
+      "alias": "Europe/Zurich",
+      "displayName": "Europe/Zurich"
+    },
+    {
+      "alias": "Arctic/Longyearbyen",
+      "displayName": "Arctic/Longyearbyen"
+    },
+    {
+      "alias": "Europe/Budapest",
+      "displayName": "Europe/Budapest"
+    },
+    {
+      "alias": "Europe/Tirane",
+      "displayName": "Europe/Tirane"
+    },
+    {
+      "alias": "Europe/Podgorica",
+      "displayName": "Europe/Podgorica"
+    },
+    {
+      "alias": "Europe/Belgrade",
+      "displayName": "Europe/Belgrade"
+    },
+    {
+      "alias": "Europe/Ljubljana",
+      "displayName": "Europe/Ljubljana"
+    },
+    {
+      "alias": "Europe/Prague",
+      "displayName": "Europe/Prague"
+    },
+    {
+      "alias": "Europe/Bratislava",
+      "displayName": "Europe/Bratislava"
+    },
+    {
+      "alias": "Europe/Madrid",
+      "displayName": "Europe/Madrid"
+    },
+    {
+      "alias": "Africa/Ceuta",
+      "displayName": "Africa/Ceuta"
+    },
+    {
+      "alias": "Europe/Copenhagen",
+      "displayName": "Europe/Copenhagen"
+    },
+    {
+      "alias": "Europe/Brussels",
+      "displayName": "Europe/Brussels"
+    },
+    {
+      "alias": "Europe/Paris",
+      "displayName": "Europe/Paris"
+    },
+    {
+      "alias": "Europe/Zagreb",
+      "displayName": "Europe/Zagreb"
+    },
+    {
+      "alias": "Europe/Skopje",
+      "displayName": "Europe/Skopje"
+    },
+    {
+      "alias": "Poland",
+      "displayName": "Poland"
+    },
+    {
+      "alias": "Europe/Sarajevo",
+      "displayName": "Europe/Sarajevo"
+    },
+    {
+      "alias": "Europe/Warsaw",
+      "displayName": "Europe/Warsaw"
+    },
+    {
+      "alias": "Africa/Lagos",
+      "displayName": "Africa/Lagos"
+    },
+    {
+      "alias": "Etc/GMT-1",
+      "displayName": "Etc/GMT-1"
+    },
+    {
+      "alias": "Africa/Algiers",
+      "displayName": "Africa/Algiers"
+    },
+    {
+      "alias": "Africa/Douala",
+      "displayName": "Africa/Douala"
+    },
+    {
+      "alias": "Africa/Luanda",
+      "displayName": "Africa/Luanda"
+    },
+    {
+      "alias": "Africa/Brazzaville",
+      "displayName": "Africa/Brazzaville"
+    },
+    {
+      "alias": "Africa/Bangui",
+      "displayName": "Africa/Bangui"
+    },
+    {
+      "alias": "Africa/Malabo",
+      "displayName": "Africa/Malabo"
+    },
+    {
+      "alias": "Africa/Kinshasa",
+      "displayName": "Africa/Kinshasa"
+    },
+    {
+      "alias": "Africa/Niamey",
+      "displayName": "Africa/Niamey"
+    },
+    {
+      "alias": "Africa/Porto-Novo",
+      "displayName": "Africa/Porto-Novo"
+    },
+    {
+      "alias": "Africa/Libreville",
+      "displayName": "Africa/Libreville"
+    },
+    {
+      "alias": "Africa/Tunis",
+      "displayName": "Africa/Tunis"
+    },
+    {
+      "alias": "Africa/Ndjamena",
+      "displayName": "Africa/Ndjamena"
+    },
+    {
+      "alias": "Africa/Tripoli",
+      "displayName": "Africa/Tripoli"
+    },
+    {
+      "alias": "Africa/Windhoek",
+      "displayName": "Africa/Windhoek"
+    },
+    {
+      "alias": "Asia/Nicosia",
+      "displayName": "Asia/Nicosia"
+    },
+    {
+      "alias": "Europe/Athens",
+      "displayName": "Europe/Athens"
+    },
+    {
+      "alias": "Asia/Famagusta",
+      "displayName": "Asia/Famagusta"
+    },
+    {
+      "alias": "Europe/Bucharest",
+      "displayName": "Europe/Bucharest"
+    },
+    {
+      "alias": "Asia/Beirut",
+      "displayName": "Asia/Beirut"
+    },
+    {
+      "alias": "Egypt",
+      "displayName": "Egypt"
+    },
+    {
+      "alias": "Africa/Cairo",
+      "displayName": "Africa/Cairo"
+    },
+    {
+      "alias": "Europe/Chisinau",
+      "displayName": "Europe/Chisinau"
+    },
+    {
+      "alias": "Asia/Damascus",
+      "displayName": "Asia/Damascus"
+    },
+    {
+      "alias": "Asia/Gaza",
+      "displayName": "Asia/Gaza"
+    },
+    {
+      "alias": "Asia/Hebron",
+      "displayName": "Asia/Hebron"
+    },
+    {
+      "alias": "Africa/Kigali",
+      "displayName": "Africa/Kigali"
+    },
+    {
+      "alias": "Africa/Lubumbashi",
+      "displayName": "Africa/Lubumbashi"
+    },
+    {
+      "alias": "Africa/Gaborone",
+      "displayName": "Africa/Gaborone"
+    },
+    {
+      "alias": "Africa/Bujumbura",
+      "displayName": "Africa/Bujumbura"
+    },
+    {
+      "alias": "Africa/Maputo",
+      "displayName": "Africa/Maputo"
+    },
+    {
+      "alias": "Africa/Mbabane",
+      "displayName": "Africa/Mbabane"
+    },
+    {
+      "alias": "Africa/Harare",
+      "displayName": "Africa/Harare"
+    },
+    {
+      "alias": "Africa/Blantyre",
+      "displayName": "Africa/Blantyre"
+    },
+    {
+      "alias": "Africa/Lusaka",
+      "displayName": "Africa/Lusaka"
+    },
+    {
+      "alias": "Africa/Johannesburg",
+      "displayName": "Africa/Johannesburg"
+    },
+    {
+      "alias": "Africa/Maseru",
+      "displayName": "Africa/Maseru"
+    },
+    {
+      "alias": "Etc/GMT-2",
+      "displayName": "Etc/GMT-2"
+    },
+    {
+      "alias": "Europe/Kiev",
+      "displayName": "Europe/Kiev"
+    },
+    {
+      "alias": "Europe/Tallinn",
+      "displayName": "Europe/Tallinn"
+    },
+    {
+      "alias": "Europe/Sofia",
+      "displayName": "Europe/Sofia"
+    },
+    {
+      "alias": "Europe/Mariehamn",
+      "displayName": "Europe/Mariehamn"
+    },
+    {
+      "alias": "Europe/Uzhgorod",
+      "displayName": "Europe/Uzhgorod"
+    },
+    {
+      "alias": "Europe/Vilnius",
+      "displayName": "Europe/Vilnius"
+    },
+    {
+      "alias": "Europe/Riga",
+      "displayName": "Europe/Riga"
+    },
+    {
+      "alias": "Europe/Kyiv",
+      "displayName": "Europe/Kyiv"
+    },
+    {
+      "alias": "Europe/Helsinki",
+      "displayName": "Europe/Helsinki"
+    },
+    {
+      "alias": "Europe/Zaporozhye",
+      "displayName": "Europe/Zaporozhye"
+    },
+    {
+      "alias": "Israel",
+      "displayName": "Israel"
+    },
+    {
+      "alias": "Asia/Jerusalem",
+      "displayName": "Asia/Jerusalem"
+    },
+    {
+      "alias": "Asia/Tel_Aviv",
+      "displayName": "Asia/Tel_Aviv"
+    },
+    {
+      "alias": "Africa/Juba",
+      "displayName": "Africa/Juba"
+    },
+    {
+      "alias": "Europe/Kaliningrad",
+      "displayName": "Europe/Kaliningrad"
+    },
+    {
+      "alias": "Africa/Khartoum",
+      "displayName": "Africa/Khartoum"
+    },
+    {
+      "alias": "Asia/Amman",
+      "displayName": "Asia/Amman"
+    },
+    {
+      "alias": "Turkey",
+      "displayName": "Turkey"
+    },
+    {
+      "alias": "Europe/Istanbul",
+      "displayName": "Europe/Istanbul"
+    },
+    {
+      "alias": "Asia/Istanbul",
+      "displayName": "Asia/Istanbul"
+    },
+    {
+      "alias": "Europe/Minsk",
+      "displayName": "Europe/Minsk"
+    },
+    {
+      "alias": "Asia/Baghdad",
+      "displayName": "Asia/Baghdad"
+    },
+    {
+      "alias": "Asia/Aden",
+      "displayName": "Asia/Aden"
+    },
+    {
+      "alias": "Asia/Kuwait",
+      "displayName": "Asia/Kuwait"
+    },
+    {
+      "alias": "Asia/Riyadh",
+      "displayName": "Asia/Riyadh"
+    },
+    {
+      "alias": "Asia/Bahrain",
+      "displayName": "Asia/Bahrain"
+    },
+    {
+      "alias": "Asia/Qatar",
+      "displayName": "Asia/Qatar"
+    },
+    {
+      "alias": "Europe/Simferopol",
+      "displayName": "Europe/Simferopol"
+    },
+    {
+      "alias": "Europe/Kirov",
+      "displayName": "Europe/Kirov"
+    },
+    {
+      "alias": "Europe/Moscow",
+      "displayName": "Europe/Moscow"
+    },
+    {
+      "alias": "Indian/Mayotte",
+      "displayName": "Indian/Mayotte"
+    },
+    {
+      "alias": "Etc/GMT-3",
+      "displayName": "Etc/GMT-3"
+    },
+    {
+      "alias": "Africa/Djibouti",
+      "displayName": "Africa/Djibouti"
+    },
+    {
+      "alias": "Africa/Kampala",
+      "displayName": "Africa/Kampala"
+    },
+    {
+      "alias": "Africa/Asmera",
+      "displayName": "Africa/Asmera"
+    },
+    {
+      "alias": "Indian/Comoro",
+      "displayName": "Indian/Comoro"
+    },
+    {
+      "alias": "Africa/Addis_Ababa",
+      "displayName": "Africa/Addis_Ababa"
+    },
+    {
+      "alias": "Antarctica/Syowa",
+      "displayName": "Antarctica/Syowa"
+    },
+    {
+      "alias": "Africa/Dar_es_Salaam",
+      "displayName": "Africa/Dar_es_Salaam"
+    },
+    {
+      "alias": "Africa/Nairobi",
+      "displayName": "Africa/Nairobi"
+    },
+    {
+      "alias": "Africa/Asmara",
+      "displayName": "Africa/Asmara"
+    },
+    {
+      "alias": "Indian/Antananarivo",
+      "displayName": "Indian/Antananarivo"
+    },
+    {
+      "alias": "Africa/Mogadishu",
+      "displayName": "Africa/Mogadishu"
+    },
+    {
+      "alias": "Europe/Volgograd",
+      "displayName": "Europe/Volgograd"
+    },
+    {
+      "alias": "Europe/Ulyanovsk",
+      "displayName": "Europe/Ulyanovsk"
+    },
+    {
+      "alias": "Europe/Astrakhan",
+      "displayName": "Europe/Astrakhan"
+    },
+    {
+      "alias": "Europe/Samara",
+      "displayName": "Europe/Samara"
+    },
+    {
+      "alias": "Europe/Saratov",
+      "displayName": "Europe/Saratov"
+    },
+    {
+      "alias": "Asia/Tehran",
+      "displayName": "Asia/Tehran"
+    },
+    {
+      "alias": "Iran",
+      "displayName": "Iran"
+    },
+    {
+      "alias": "Etc/GMT-4",
+      "displayName": "Etc/GMT-4"
+    },
+    {
+      "alias": "Asia/Muscat",
+      "displayName": "Asia/Muscat"
+    },
+    {
+      "alias": "Asia/Dubai",
+      "displayName": "Asia/Dubai"
+    },
+    {
+      "alias": "Asia/Baku",
+      "displayName": "Asia/Baku"
+    },
+    {
+      "alias": "Indian/Mauritius",
+      "displayName": "Indian/Mauritius"
+    },
+    {
+      "alias": "Indian/Reunion",
+      "displayName": "Indian/Reunion"
+    },
+    {
+      "alias": "Indian/Mahe",
+      "displayName": "Indian/Mahe"
+    },
+    {
+      "alias": "Asia/Tbilisi",
+      "displayName": "Asia/Tbilisi"
+    },
+    {
+      "alias": "Asia/Yerevan",
+      "displayName": "Asia/Yerevan"
+    },
+    {
+      "alias": "Asia/Kabul",
+      "displayName": "Asia/Kabul"
+    },
+    {
+      "alias": "Asia/Ashkhabad",
+      "displayName": "Asia/Ashkhabad"
+    },
+    {
+      "alias": "Indian/Maldives",
+      "displayName": "Indian/Maldives"
+    },
+    {
+      "alias": "Asia/Oral",
+      "displayName": "Asia/Oral"
+    },
+    {
+      "alias": "Asia/Tashkent",
+      "displayName": "Asia/Tashkent"
+    },
+    {
+      "alias": "Antarctica/Mawson",
+      "displayName": "Antarctica/Mawson"
+    },
+    {
+      "alias": "Asia/Atyrau",
+      "displayName": "Asia/Atyrau"
+    },
+    {
+      "alias": "Asia/Aqtau",
+      "displayName": "Asia/Aqtau"
+    },
+    {
+      "alias": "Etc/GMT-5",
+      "displayName": "Etc/GMT-5"
+    },
+    {
+      "alias": "Asia/Aqtobe",
+      "displayName": "Asia/Aqtobe"
+    },
+    {
+      "alias": "Asia/Samarkand",
+      "displayName": "Asia/Samarkand"
+    },
+    {
+      "alias": "Asia/Ashgabat",
+      "displayName": "Asia/Ashgabat"
+    },
+    {
+      "alias": "Asia/Dushanbe",
+      "displayName": "Asia/Dushanbe"
+    },
+    {
+      "alias": "Indian/Kerguelen",
+      "displayName": "Indian/Kerguelen"
+    },
+    {
+      "alias": "Asia/Qyzylorda",
+      "displayName": "Asia/Qyzylorda"
+    },
+    {
+      "alias": "Asia/Qostanay",
+      "displayName": "Asia/Qostanay"
+    },
+    {
+      "alias": "Asia/Almaty",
+      "displayName": "Asia/Almaty"
+    },
+    {
+      "alias": "Asia/Yekaterinburg",
+      "displayName": "Asia/Yekaterinburg"
+    },
+    {
+      "alias": "Asia/Karachi",
+      "displayName": "Asia/Karachi"
+    },
+    {
+      "alias": "Asia/Kolkata",
+      "displayName": "Asia/Kolkata"
+    },
+    {
+      "alias": "Asia/Calcutta",
+      "displayName": "Asia/Calcutta"
+    },
+    {
+      "alias": "Asia/Colombo",
+      "displayName": "Asia/Colombo"
+    },
+    {
+      "alias": "Asia/Kathmandu",
+      "displayName": "Asia/Kathmandu"
+    },
+    {
+      "alias": "Asia/Katmandu",
+      "displayName": "Asia/Katmandu"
+    },
+    {
+      "alias": "Antarctica/Vostok",
+      "displayName": "Antarctica/Vostok"
+    },
+    {
+      "alias": "Etc/GMT-6",
+      "displayName": "Etc/GMT-6"
+    },
+    {
+      "alias": "Indian/Chagos",
+      "displayName": "Indian/Chagos"
+    },
+    {
+      "alias": "Asia/Bishkek",
+      "displayName": "Asia/Bishkek"
+    },
+    {
+      "alias": "Asia/Thimphu",
+      "displayName": "Asia/Thimphu"
+    },
+    {
+      "alias": "Asia/Dhaka",
+      "displayName": "Asia/Dhaka"
+    },
+    {
+      "alias": "Asia/Dacca",
+      "displayName": "Asia/Dacca"
+    },
+    {
+      "alias": "Asia/Thimbu",
+      "displayName": "Asia/Thimbu"
+    },
+    {
+      "alias": "Asia/Omsk",
+      "displayName": "Asia/Omsk"
+    },
+    {
+      "alias": "Asia/Barnaul",
+      "displayName": "Asia/Barnaul"
+    },
+    {
+      "alias": "Asia/Novosibirsk",
+      "displayName": "Asia/Novosibirsk"
+    },
+    {
+      "alias": "Asia/Tomsk",
+      "displayName": "Asia/Tomsk"
+    },
+    {
+      "alias": "Asia/Yangon",
+      "displayName": "Asia/Yangon"
+    },
+    {
+      "alias": "Indian/Cocos",
+      "displayName": "Indian/Cocos"
+    },
+    {
+      "alias": "Asia/Rangoon",
+      "displayName": "Asia/Rangoon"
+    },
+    {
+      "alias": "Asia/Phnom_Penh",
+      "displayName": "Asia/Phnom_Penh"
+    },
+    {
+      "alias": "Indian/Christmas",
+      "displayName": "Indian/Christmas"
+    },
+    {
+      "alias": "Asia/Jakarta",
+      "displayName": "Asia/Jakarta"
+    },
+    {
+      "alias": "Asia/Pontianak",
+      "displayName": "Asia/Pontianak"
+    },
+    {
+      "alias": "Asia/Ho_Chi_Minh",
+      "displayName": "Asia/Ho_Chi_Minh"
+    },
+    {
+      "alias": "Asia/Saigon",
+      "displayName": "Asia/Saigon"
+    },
+    {
+      "alias": "Asia/Bangkok",
+      "displayName": "Asia/Bangkok"
+    },
+    {
+      "alias": "Asia/Vientiane",
+      "displayName": "Asia/Vientiane"
+    },
+    {
+      "alias": "Etc/GMT-7",
+      "displayName": "Etc/GMT-7"
+    },
+    {
+      "alias": "Antarctica/Davis",
+      "displayName": "Antarctica/Davis"
+    },
+    {
+      "alias": "Asia/Hovd",
+      "displayName": "Asia/Hovd"
+    },
+    {
+      "alias": "Asia/Novokuznetsk",
+      "displayName": "Asia/Novokuznetsk"
+    },
+    {
+      "alias": "Asia/Krasnoyarsk",
+      "displayName": "Asia/Krasnoyarsk"
+    },
+    {
+      "alias": "Asia/Kashgar",
+      "displayName": "Asia/Kashgar"
+    },
+    {
+      "alias": "Asia/Harbin",
+      "displayName": "Asia/Harbin"
+    },
+    {
+      "alias": "Asia/Chungking",
+      "displayName": "Asia/Chungking"
+    },
+    {
+      "alias": "Hongkong",
+      "displayName": "Hongkong"
+    },
+    {
+      "alias": "Asia/Chongqing",
+      "displayName": "Asia/Chongqing"
+    },
+    {
+      "alias": "Asia/Urumqi",
+      "displayName": "Asia/Urumqi"
+    },
+    {
+      "alias": "Asia/Macao",
+      "displayName": "Asia/Macao"
+    },
+    {
+      "alias": "Asia/Shanghai",
+      "displayName": "Asia/Shanghai"
+    },
+    {
+      "alias": "Asia/Hong_Kong",
+      "displayName": "Asia/Hong_Kong"
+    },
+    {
+      "alias": "Asia/Macau",
+      "displayName": "Asia/Macau"
+    },
+    {
+      "alias": "Asia/Irkutsk",
+      "displayName": "Asia/Irkutsk"
+    },
+    {
+      "alias": "Asia/Kuala_Lumpur",
+      "displayName": "Asia/Kuala_Lumpur"
+    },
+    {
+      "alias": "Asia/Manila",
+      "displayName": "Asia/Manila"
+    },
+    {
+      "alias": "Asia/Kuching",
+      "displayName": "Asia/Kuching"
+    },
+    {
+      "alias": "Asia/Ujung_Pandang",
+      "displayName": "Asia/Ujung_Pandang"
+    },
+    {
+      "alias": "Asia/Brunei",
+      "displayName": "Asia/Brunei"
+    },
+    {
+      "alias": "Etc/GMT-8",
+      "displayName": "Etc/GMT-8"
+    },
+    {
+      "alias": "Asia/Singapore",
+      "displayName": "Asia/Singapore"
+    },
+    {
+      "alias": "Asia/Makassar",
+      "displayName": "Asia/Makassar"
+    },
+    {
+      "alias": "Antarctica/Casey",
+      "displayName": "Antarctica/Casey"
+    },
+    {
+      "alias": "Australia/West",
+      "displayName": "Australia/West"
+    },
+    {
+      "alias": "Australia/Perth",
+      "displayName": "Australia/Perth"
+    },
+    {
+      "alias": "Asia/Taipei",
+      "displayName": "Asia/Taipei"
+    },
+    {
+      "alias": "Asia/Ulan_Bator",
+      "displayName": "Asia/Ulan_Bator"
+    },
+    {
+      "alias": "Asia/Ulaanbaatar",
+      "displayName": "Asia/Ulaanbaatar"
+    },
+    {
+      "alias": "Asia/Choibalsan",
+      "displayName": "Asia/Choibalsan"
+    },
+    {
+      "alias": "Asia/Chita",
+      "displayName": "Asia/Chita"
+    },
+    {
+      "alias": "Asia/Pyongyang",
+      "displayName": "Asia/Pyongyang"
+    },
+    {
+      "alias": "Australia/Eucla",
+      "displayName": "Australia/Eucla"
+    },
+    {
+      "alias": "Pacific/Palau",
+      "displayName": "Pacific/Palau"
+    },
+    {
+      "alias": "Asia/Dili",
+      "displayName": "Asia/Dili"
+    },
+    {
+      "alias": "Asia/Jayapura",
+      "displayName": "Asia/Jayapura"
+    },
+    {
+      "alias": "Etc/GMT-9",
+      "displayName": "Etc/GMT-9"
+    },
+    {
+      "alias": "Asia/Tokyo",
+      "displayName": "Asia/Tokyo"
+    },
+    {
+      "alias": "Asia/Seoul",
+      "displayName": "Asia/Seoul"
+    },
+    {
+      "alias": "Asia/Khandyga",
+      "displayName": "Asia/Khandyga"
+    },
+    {
+      "alias": "Asia/Yakutsk",
+      "displayName": "Asia/Yakutsk"
+    },
+    {
+      "alias": "Australia/South",
+      "displayName": "Australia/South"
+    },
+    {
+      "alias": "Australia/Broken_Hill",
+      "displayName": "Australia/Broken_Hill"
+    },
+    {
+      "alias": "Australia/Adelaide",
+      "displayName": "Australia/Adelaide"
+    },
+    {
+      "alias": "Australia/Yancowinna",
+      "displayName": "Australia/Yancowinna"
+    },
+    {
+      "alias": "Australia/Darwin",
+      "displayName": "Australia/Darwin"
+    },
+    {
+      "alias": "Australia/North",
+      "displayName": "Australia/North"
+    },
+    {
+      "alias": "Australia/Queensland",
+      "displayName": "Australia/Queensland"
+    },
+    {
+      "alias": "Australia/Brisbane",
+      "displayName": "Australia/Brisbane"
+    },
+    {
+      "alias": "Australia/Lindeman",
+      "displayName": "Australia/Lindeman"
+    },
+    {
+      "alias": "Australia/Victoria",
+      "displayName": "Australia/Victoria"
+    },
+    {
+      "alias": "Australia/NSW",
+      "displayName": "Australia/NSW"
+    },
+    {
+      "alias": "Australia/Sydney",
+      "displayName": "Australia/Sydney"
+    },
+    {
+      "alias": "Australia/Canberra",
+      "displayName": "Australia/Canberra"
+    },
+    {
+      "alias": "Australia/Melbourne",
+      "displayName": "Australia/Melbourne"
+    },
+    {
+      "alias": "Australia/ACT",
+      "displayName": "Australia/ACT"
+    },
+    {
+      "alias": "Pacific/Port_Moresby",
+      "displayName": "Pacific/Port_Moresby"
+    },
+    {
+      "alias": "Pacific/Guam",
+      "displayName": "Pacific/Guam"
+    },
+    {
+      "alias": "Pacific/Saipan",
+      "displayName": "Pacific/Saipan"
+    },
+    {
+      "alias": "Etc/GMT-10",
+      "displayName": "Etc/GMT-10"
+    },
+    {
+      "alias": "Pacific/Chuuk",
+      "displayName": "Pacific/Chuuk"
+    },
+    {
+      "alias": "Antarctica/DumontDUrville",
+      "displayName": "Antarctica/DumontDUrville"
+    },
+    {
+      "alias": "Pacific/Truk",
+      "displayName": "Pacific/Truk"
+    },
+    {
+      "alias": "Australia/Tasmania",
+      "displayName": "Australia/Tasmania"
+    },
+    {
+      "alias": "Australia/Currie",
+      "displayName": "Australia/Currie"
+    },
+    {
+      "alias": "Australia/Hobart",
+      "displayName": "Australia/Hobart"
+    },
+    {
+      "alias": "Antarctica/Macquarie",
+      "displayName": "Antarctica/Macquarie"
+    },
+    {
+      "alias": "Asia/Vladivostok",
+      "displayName": "Asia/Vladivostok"
+    },
+    {
+      "alias": "Asia/Ust-Nera",
+      "displayName": "Asia/Ust-Nera"
+    },
+    {
+      "alias": "Pacific/Bougainville",
+      "displayName": "Pacific/Bougainville"
+    },
+    {
+      "alias": "Asia/Magadan",
+      "displayName": "Asia/Magadan"
+    },
+    {
+      "alias": "Asia/Sakhalin",
+      "displayName": "Asia/Sakhalin"
+    },
+    {
+      "alias": "Australia/Lord_Howe",
+      "displayName": "Australia/Lord_Howe"
+    },
+    {
+      "alias": "Australia/LHI",
+      "displayName": "Australia/LHI"
+    },
+    {
+      "alias": "Asia/Srednekolymsk",
+      "displayName": "Asia/Srednekolymsk"
+    },
+    {
+      "alias": "Pacific/Norfolk",
+      "displayName": "Pacific/Norfolk"
+    },
+    {
+      "alias": "Pacific/Pohnpei",
+      "displayName": "Pacific/Pohnpei"
+    },
+    {
+      "alias": "Pacific/Kosrae",
+      "displayName": "Pacific/Kosrae"
+    },
+    {
+      "alias": "Pacific/Guadalcanal",
+      "displayName": "Pacific/Guadalcanal"
+    },
+    {
+      "alias": "Pacific/Efate",
+      "displayName": "Pacific/Efate"
+    },
+    {
+      "alias": "Pacific/Ponape",
+      "displayName": "Pacific/Ponape"
+    },
+    {
+      "alias": "Pacific/Noumea",
+      "displayName": "Pacific/Noumea"
+    },
+    {
+      "alias": "Etc/GMT-11",
+      "displayName": "Etc/GMT-11"
+    },
+    {
+      "alias": "Asia/Kamchatka",
+      "displayName": "Asia/Kamchatka"
+    },
+    {
+      "alias": "Asia/Anadyr",
+      "displayName": "Asia/Anadyr"
+    },
+    {
+      "alias": "Pacific/Auckland",
+      "displayName": "Pacific/Auckland"
+    },
+    {
+      "alias": "Antarctica/South_Pole",
+      "displayName": "Antarctica/South_Pole"
+    },
+    {
+      "alias": "Antarctica/McMurdo",
+      "displayName": "Antarctica/McMurdo"
+    },
+    {
+      "alias": "Pacific/Wake",
+      "displayName": "Pacific/Wake"
+    },
+    {
+      "alias": "Pacific/Majuro",
+      "displayName": "Pacific/Majuro"
+    },
+    {
+      "alias": "Pacific/Funafuti",
+      "displayName": "Pacific/Funafuti"
+    },
+    {
+      "alias": "Pacific/Kwajalein",
+      "displayName": "Pacific/Kwajalein"
+    },
+    {
+      "alias": "Pacific/Nauru",
+      "displayName": "Pacific/Nauru"
+    },
+    {
+      "alias": "Pacific/Tarawa",
+      "displayName": "Pacific/Tarawa"
+    },
+    {
+      "alias": "Pacific/Wallis",
+      "displayName": "Pacific/Wallis"
+    },
+    {
+      "alias": "Etc/GMT-12",
+      "displayName": "Etc/GMT-12"
+    },
+    {
+      "alias": "Pacific/Fiji",
+      "displayName": "Pacific/Fiji"
+    },
+    {
+      "alias": "Pacific/Chatham",
+      "displayName": "Pacific/Chatham"
+    },
+    {
+      "alias": "Pacific/Fakaofo",
+      "displayName": "Pacific/Fakaofo"
+    },
+    {
+      "alias": "Etc/GMT-13",
+      "displayName": "Etc/GMT-13"
+    },
+    {
+      "alias": "Pacific/Enderbury",
+      "displayName": "Pacific/Enderbury"
+    },
+    {
+      "alias": "Pacific/Tongatapu",
+      "displayName": "Pacific/Tongatapu"
+    },
+    {
+      "alias": "Pacific/Kiritimati",
+      "displayName": "Pacific/Kiritimati"
+    },
+    {
+      "alias": "Etc/GMT-14",
+      "displayName": "Etc/GMT-14"
+    }
+  ]
+}

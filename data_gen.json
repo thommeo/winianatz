@@ -1,0 +1,3506 @@
+[
+  {
+    "microsoftAlias": "Dateline Standard Time",
+    "microsoftDisplayName": "(UTC-12:00) International Date Line West",
+    "territory": "001",
+    "iana": "Etc/GMT+12"
+  },
+  {
+    "microsoftAlias": "Dateline Standard Time",
+    "microsoftDisplayName": "(UTC-12:00) International Date Line West",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+12"
+  },
+  {
+    "microsoftAlias": "UTC-11",
+    "microsoftDisplayName": "(UTC-11:00) Coordinated Universal Time-11",
+    "territory": "001",
+    "iana": "Etc/GMT+11"
+  },
+  {
+    "microsoftAlias": "UTC-11",
+    "microsoftDisplayName": "(UTC-11:00) Coordinated Universal Time-11",
+    "territory": "AS",
+    "iana": "Pacific/Pago_Pago"
+  },
+  {
+    "microsoftAlias": "UTC-11",
+    "microsoftDisplayName": "(UTC-11:00) Coordinated Universal Time-11",
+    "territory": "NU",
+    "iana": "Pacific/Niue"
+  },
+  {
+    "microsoftAlias": "UTC-11",
+    "microsoftDisplayName": "(UTC-11:00) Coordinated Universal Time-11",
+    "territory": "UM",
+    "iana": "Pacific/Midway"
+  },
+  {
+    "microsoftAlias": "UTC-11",
+    "microsoftDisplayName": "(UTC-11:00) Coordinated Universal Time-11",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+11"
+  },
+  {
+    "microsoftAlias": "Aleutian Standard Time",
+    "microsoftDisplayName": "(UTC-10:00) Aleutian Islands",
+    "territory": "001",
+    "iana": "America/Adak"
+  },
+  {
+    "microsoftAlias": "Aleutian Standard Time",
+    "microsoftDisplayName": "(UTC-10:00) Aleutian Islands",
+    "territory": "US",
+    "iana": "America/Adak"
+  },
+  {
+    "microsoftAlias": "Hawaiian Standard Time",
+    "microsoftDisplayName": "(UTC-10:00) Hawaii",
+    "territory": "001",
+    "iana": "Pacific/Honolulu"
+  },
+  {
+    "microsoftAlias": "Hawaiian Standard Time",
+    "microsoftDisplayName": "(UTC-10:00) Hawaii",
+    "territory": "CK",
+    "iana": "Pacific/Rarotonga"
+  },
+  {
+    "microsoftAlias": "Hawaiian Standard Time",
+    "microsoftDisplayName": "(UTC-10:00) Hawaii",
+    "territory": "PF",
+    "iana": "Pacific/Tahiti"
+  },
+  {
+    "microsoftAlias": "Hawaiian Standard Time",
+    "microsoftDisplayName": "(UTC-10:00) Hawaii",
+    "territory": "US",
+    "iana": "Pacific/Honolulu"
+  },
+  {
+    "microsoftAlias": "Hawaiian Standard Time",
+    "microsoftDisplayName": "(UTC-10:00) Hawaii",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+10"
+  },
+  {
+    "microsoftAlias": "Marquesas Standard Time",
+    "microsoftDisplayName": "(UTC-09:30) Marquesas Islands",
+    "territory": "001",
+    "iana": "Pacific/Marquesas"
+  },
+  {
+    "microsoftAlias": "Marquesas Standard Time",
+    "microsoftDisplayName": "(UTC-09:30) Marquesas Islands",
+    "territory": "PF",
+    "iana": "Pacific/Marquesas"
+  },
+  {
+    "microsoftAlias": "Alaskan Standard Time",
+    "microsoftDisplayName": "(UTC-09:00) Alaska",
+    "territory": "001",
+    "iana": "America/Anchorage"
+  },
+  {
+    "microsoftAlias": "Alaskan Standard Time",
+    "microsoftDisplayName": "(UTC-09:00) Alaska",
+    "territory": "US",
+    "iana": "America/Anchorage"
+  },
+  {
+    "microsoftAlias": "Alaskan Standard Time",
+    "microsoftDisplayName": "(UTC-09:00) Alaska",
+    "territory": "US",
+    "iana": "America/Juneau"
+  },
+  {
+    "microsoftAlias": "Alaskan Standard Time",
+    "microsoftDisplayName": "(UTC-09:00) Alaska",
+    "territory": "US",
+    "iana": "America/Metlakatla"
+  },
+  {
+    "microsoftAlias": "Alaskan Standard Time",
+    "microsoftDisplayName": "(UTC-09:00) Alaska",
+    "territory": "US",
+    "iana": "America/Nome"
+  },
+  {
+    "microsoftAlias": "Alaskan Standard Time",
+    "microsoftDisplayName": "(UTC-09:00) Alaska",
+    "territory": "US",
+    "iana": "America/Sitka"
+  },
+  {
+    "microsoftAlias": "Alaskan Standard Time",
+    "microsoftDisplayName": "(UTC-09:00) Alaska",
+    "territory": "US",
+    "iana": "America/Yakutat"
+  },
+  {
+    "microsoftAlias": "UTC-09",
+    "microsoftDisplayName": "(UTC-09:00) Coordinated Universal Time-09",
+    "territory": "001",
+    "iana": "Etc/GMT+9"
+  },
+  {
+    "microsoftAlias": "UTC-09",
+    "microsoftDisplayName": "(UTC-09:00) Coordinated Universal Time-09",
+    "territory": "PF",
+    "iana": "Pacific/Gambier"
+  },
+  {
+    "microsoftAlias": "UTC-09",
+    "microsoftDisplayName": "(UTC-09:00) Coordinated Universal Time-09",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+9"
+  },
+  {
+    "microsoftAlias": "Pacific Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-08:00) Baja California",
+    "territory": "001",
+    "iana": "America/Tijuana"
+  },
+  {
+    "microsoftAlias": "Pacific Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-08:00) Baja California",
+    "territory": "MX",
+    "iana": "America/Tijuana"
+  },
+  {
+    "microsoftAlias": "UTC-08",
+    "microsoftDisplayName": "(UTC-08:00) Coordinated Universal Time-08",
+    "territory": "001",
+    "iana": "Etc/GMT+8"
+  },
+  {
+    "microsoftAlias": "UTC-08",
+    "microsoftDisplayName": "(UTC-08:00) Coordinated Universal Time-08",
+    "territory": "PN",
+    "iana": "Pacific/Pitcairn"
+  },
+  {
+    "microsoftAlias": "UTC-08",
+    "microsoftDisplayName": "(UTC-08:00) Coordinated Universal Time-08",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+8"
+  },
+  {
+    "microsoftAlias": "Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-08:00) Pacific Time (US \u0026 Canada)",
+    "territory": "001",
+    "iana": "America/Los_Angeles"
+  },
+  {
+    "microsoftAlias": "Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-08:00) Pacific Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Vancouver"
+  },
+  {
+    "microsoftAlias": "Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-08:00) Pacific Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Los_Angeles"
+  },
+  {
+    "microsoftAlias": "US Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Arizona",
+    "territory": "001",
+    "iana": "America/Phoenix"
+  },
+  {
+    "microsoftAlias": "US Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Arizona",
+    "territory": "CA",
+    "iana": "America/Creston"
+  },
+  {
+    "microsoftAlias": "US Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Arizona",
+    "territory": "CA",
+    "iana": "America/Dawson_Creek"
+  },
+  {
+    "microsoftAlias": "US Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Arizona",
+    "territory": "CA",
+    "iana": "America/Fort_Nelson"
+  },
+  {
+    "microsoftAlias": "US Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Arizona",
+    "territory": "MX",
+    "iana": "America/Hermosillo"
+  },
+  {
+    "microsoftAlias": "US Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Arizona",
+    "territory": "US",
+    "iana": "America/Phoenix"
+  },
+  {
+    "microsoftAlias": "US Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Arizona",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+7"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+    "territory": "001",
+    "iana": "America/Mazatlan"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+    "territory": "MX",
+    "iana": "America/Mazatlan"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+    "territory": "001",
+    "iana": "America/Denver"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Edmonton"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Cambridge_Bay"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Inuvik"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+    "territory": "MX",
+    "iana": "America/Ciudad_Juarez"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Denver"
+  },
+  {
+    "microsoftAlias": "Mountain Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Boise"
+  },
+  {
+    "microsoftAlias": "Yukon Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Yukon",
+    "territory": "001",
+    "iana": "America/Whitehorse"
+  },
+  {
+    "microsoftAlias": "Yukon Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Yukon",
+    "territory": "CA",
+    "iana": "America/Whitehorse"
+  },
+  {
+    "microsoftAlias": "Yukon Standard Time",
+    "microsoftDisplayName": "(UTC-07:00) Yukon",
+    "territory": "CA",
+    "iana": "America/Dawson"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "001",
+    "iana": "America/Guatemala"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "BZ",
+    "iana": "America/Belize"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "CR",
+    "iana": "America/Costa_Rica"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "EC",
+    "iana": "Pacific/Galapagos"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "GT",
+    "iana": "America/Guatemala"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "HN",
+    "iana": "America/Tegucigalpa"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "NI",
+    "iana": "America/Managua"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "SV",
+    "iana": "America/El_Salvador"
+  },
+  {
+    "microsoftAlias": "Central America Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central America",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+6"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "001",
+    "iana": "America/Chicago"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Winnipeg"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Rankin_Inlet"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Resolute"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "MX",
+    "iana": "America/Matamoros"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "MX",
+    "iana": "America/Ojinaga"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Chicago"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Indiana/Knox"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Indiana/Tell_City"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Menominee"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/North_Dakota/Beulah"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/North_Dakota/Center"
+  },
+  {
+    "microsoftAlias": "Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Central Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/North_Dakota/New_Salem"
+  },
+  {
+    "microsoftAlias": "Easter Island Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Easter Island",
+    "territory": "001",
+    "iana": "Pacific/Easter"
+  },
+  {
+    "microsoftAlias": "Easter Island Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Easter Island",
+    "territory": "CL",
+    "iana": "Pacific/Easter"
+  },
+  {
+    "microsoftAlias": "Central Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "territory": "001",
+    "iana": "America/Mexico_City"
+  },
+  {
+    "microsoftAlias": "Central Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "territory": "MX",
+    "iana": "America/Mexico_City"
+  },
+  {
+    "microsoftAlias": "Central Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "territory": "MX",
+    "iana": "America/Bahia_Banderas"
+  },
+  {
+    "microsoftAlias": "Central Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "territory": "MX",
+    "iana": "America/Merida"
+  },
+  {
+    "microsoftAlias": "Central Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "territory": "MX",
+    "iana": "America/Monterrey"
+  },
+  {
+    "microsoftAlias": "Central Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "territory": "MX",
+    "iana": "America/Chihuahua"
+  },
+  {
+    "microsoftAlias": "Canada Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Saskatchewan",
+    "territory": "001",
+    "iana": "America/Regina"
+  },
+  {
+    "microsoftAlias": "Canada Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Saskatchewan",
+    "territory": "CA",
+    "iana": "America/Regina"
+  },
+  {
+    "microsoftAlias": "Canada Central Standard Time",
+    "microsoftDisplayName": "(UTC-06:00) Saskatchewan",
+    "territory": "CA",
+    "iana": "America/Swift_Current"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "001",
+    "iana": "America/Bogota"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "BR",
+    "iana": "America/Rio_Branco"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "BR",
+    "iana": "America/Eirunepe"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "CA",
+    "iana": "America/Coral_Harbour"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "CO",
+    "iana": "America/Bogota"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "EC",
+    "iana": "America/Guayaquil"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "JM",
+    "iana": "America/Jamaica"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "KY",
+    "iana": "America/Cayman"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "PA",
+    "iana": "America/Panama"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "PE",
+    "iana": "America/Lima"
+  },
+  {
+    "microsoftAlias": "SA Pacific Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+5"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-05:00) Chetumal",
+    "territory": "001",
+    "iana": "America/Cancun"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time (Mexico)",
+    "microsoftDisplayName": "(UTC-05:00) Chetumal",
+    "territory": "MX",
+    "iana": "America/Cancun"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "001",
+    "iana": "America/New_York"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "BS",
+    "iana": "America/Nassau"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Toronto"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "CA",
+    "iana": "America/Iqaluit"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/New_York"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Detroit"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Indiana/Petersburg"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Indiana/Vincennes"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Indiana/Winamac"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Kentucky/Monticello"
+  },
+  {
+    "microsoftAlias": "Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+    "territory": "US",
+    "iana": "America/Louisville"
+  },
+  {
+    "microsoftAlias": "Haiti Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Haiti",
+    "territory": "001",
+    "iana": "America/Port-au-Prince"
+  },
+  {
+    "microsoftAlias": "Haiti Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Haiti",
+    "territory": "HT",
+    "iana": "America/Port-au-Prince"
+  },
+  {
+    "microsoftAlias": "Cuba Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Havana",
+    "territory": "001",
+    "iana": "America/Havana"
+  },
+  {
+    "microsoftAlias": "Cuba Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Havana",
+    "territory": "CU",
+    "iana": "America/Havana"
+  },
+  {
+    "microsoftAlias": "US Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Indiana (East)",
+    "territory": "001",
+    "iana": "America/Indianapolis"
+  },
+  {
+    "microsoftAlias": "US Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Indiana (East)",
+    "territory": "US",
+    "iana": "America/Indianapolis"
+  },
+  {
+    "microsoftAlias": "US Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Indiana (East)",
+    "territory": "US",
+    "iana": "America/Indiana/Marengo"
+  },
+  {
+    "microsoftAlias": "US Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Indiana (East)",
+    "territory": "US",
+    "iana": "America/Indiana/Vevay"
+  },
+  {
+    "microsoftAlias": "Turks And Caicos Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Turks and Caicos",
+    "territory": "001",
+    "iana": "America/Grand_Turk"
+  },
+  {
+    "microsoftAlias": "Turks And Caicos Standard Time",
+    "microsoftDisplayName": "(UTC-05:00) Turks and Caicos",
+    "territory": "TC",
+    "iana": "America/Grand_Turk"
+  },
+  {
+    "microsoftAlias": "Paraguay Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Asuncion",
+    "territory": "001",
+    "iana": "America/Asuncion"
+  },
+  {
+    "microsoftAlias": "Paraguay Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Asuncion",
+    "territory": "PY",
+    "iana": "America/Asuncion"
+  },
+  {
+    "microsoftAlias": "Atlantic Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Atlantic Time (Canada)",
+    "territory": "001",
+    "iana": "America/Halifax"
+  },
+  {
+    "microsoftAlias": "Atlantic Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Atlantic Time (Canada)",
+    "territory": "BM",
+    "iana": "Atlantic/Bermuda"
+  },
+  {
+    "microsoftAlias": "Atlantic Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Atlantic Time (Canada)",
+    "territory": "CA",
+    "iana": "America/Halifax"
+  },
+  {
+    "microsoftAlias": "Atlantic Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Atlantic Time (Canada)",
+    "territory": "CA",
+    "iana": "America/Glace_Bay"
+  },
+  {
+    "microsoftAlias": "Atlantic Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Atlantic Time (Canada)",
+    "territory": "CA",
+    "iana": "America/Goose_Bay"
+  },
+  {
+    "microsoftAlias": "Atlantic Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Atlantic Time (Canada)",
+    "territory": "CA",
+    "iana": "America/Moncton"
+  },
+  {
+    "microsoftAlias": "Atlantic Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Atlantic Time (Canada)",
+    "territory": "GL",
+    "iana": "America/Thule"
+  },
+  {
+    "microsoftAlias": "Venezuela Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Caracas",
+    "territory": "001",
+    "iana": "America/Caracas"
+  },
+  {
+    "microsoftAlias": "Venezuela Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Caracas",
+    "territory": "VE",
+    "iana": "America/Caracas"
+  },
+  {
+    "microsoftAlias": "Central Brazilian Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Cuiaba",
+    "territory": "001",
+    "iana": "America/Cuiaba"
+  },
+  {
+    "microsoftAlias": "Central Brazilian Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Cuiaba",
+    "territory": "BR",
+    "iana": "America/Cuiaba"
+  },
+  {
+    "microsoftAlias": "Central Brazilian Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Cuiaba",
+    "territory": "BR",
+    "iana": "America/Campo_Grande"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "001",
+    "iana": "America/La_Paz"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "AG",
+    "iana": "America/Antigua"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "AI",
+    "iana": "America/Anguilla"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "AW",
+    "iana": "America/Aruba"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "BB",
+    "iana": "America/Barbados"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "BL",
+    "iana": "America/St_Barthelemy"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "BO",
+    "iana": "America/La_Paz"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "BQ",
+    "iana": "America/Kralendijk"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "BR",
+    "iana": "America/Manaus"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "BR",
+    "iana": "America/Boa_Vista"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "BR",
+    "iana": "America/Porto_Velho"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "CA",
+    "iana": "America/Blanc-Sablon"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "CW",
+    "iana": "America/Curacao"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "DM",
+    "iana": "America/Dominica"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "DO",
+    "iana": "America/Santo_Domingo"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "GD",
+    "iana": "America/Grenada"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "GP",
+    "iana": "America/Guadeloupe"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "GY",
+    "iana": "America/Guyana"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "KN",
+    "iana": "America/St_Kitts"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "LC",
+    "iana": "America/St_Lucia"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "MF",
+    "iana": "America/Marigot"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "MQ",
+    "iana": "America/Martinique"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "MS",
+    "iana": "America/Montserrat"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "PR",
+    "iana": "America/Puerto_Rico"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "SX",
+    "iana": "America/Lower_Princes"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "TT",
+    "iana": "America/Port_of_Spain"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "VC",
+    "iana": "America/St_Vincent"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "VG",
+    "iana": "America/Tortola"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "VI",
+    "iana": "America/St_Thomas"
+  },
+  {
+    "microsoftAlias": "SA Western Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+4"
+  },
+  {
+    "microsoftAlias": "Pacific SA Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Santiago",
+    "territory": "001",
+    "iana": "America/Santiago"
+  },
+  {
+    "microsoftAlias": "Pacific SA Standard Time",
+    "microsoftDisplayName": "(UTC-04:00) Santiago",
+    "territory": "CL",
+    "iana": "America/Santiago"
+  },
+  {
+    "microsoftAlias": "Newfoundland Standard Time",
+    "microsoftDisplayName": "(UTC-03:30) Newfoundland",
+    "territory": "001",
+    "iana": "America/St_Johns"
+  },
+  {
+    "microsoftAlias": "Newfoundland Standard Time",
+    "microsoftDisplayName": "(UTC-03:30) Newfoundland",
+    "territory": "CA",
+    "iana": "America/St_Johns"
+  },
+  {
+    "microsoftAlias": "Tocantins Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Araguaina",
+    "territory": "001",
+    "iana": "America/Araguaina"
+  },
+  {
+    "microsoftAlias": "Tocantins Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Araguaina",
+    "territory": "BR",
+    "iana": "America/Araguaina"
+  },
+  {
+    "microsoftAlias": "E. South America Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Brasilia",
+    "territory": "001",
+    "iana": "America/Sao_Paulo"
+  },
+  {
+    "microsoftAlias": "E. South America Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Brasilia",
+    "territory": "BR",
+    "iana": "America/Sao_Paulo"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "001",
+    "iana": "America/Cayenne"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "AQ",
+    "iana": "Antarctica/Rothera"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "AQ",
+    "iana": "Antarctica/Palmer"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "BR",
+    "iana": "America/Fortaleza"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "BR",
+    "iana": "America/Belem"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "BR",
+    "iana": "America/Maceio"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "BR",
+    "iana": "America/Recife"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "BR",
+    "iana": "America/Santarem"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "FK",
+    "iana": "Atlantic/Stanley"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "GF",
+    "iana": "America/Cayenne"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "SR",
+    "iana": "America/Paramaribo"
+  },
+  {
+    "microsoftAlias": "SA Eastern Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Cayenne, Fortaleza",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+3"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "001",
+    "iana": "America/Buenos_Aires"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Buenos_Aires"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Argentina/La_Rioja"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Argentina/Rio_Gallegos"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Argentina/Salta"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Argentina/San_Juan"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Argentina/San_Luis"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Argentina/Tucuman"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Argentina/Ushuaia"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Catamarca"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Cordoba"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Jujuy"
+  },
+  {
+    "microsoftAlias": "Argentina Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) City of Buenos Aires",
+    "territory": "AR",
+    "iana": "America/Mendoza"
+  },
+  {
+    "microsoftAlias": "Greenland Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Greenland",
+    "territory": "001",
+    "iana": "America/Godthab"
+  },
+  {
+    "microsoftAlias": "Greenland Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Greenland",
+    "territory": "GL",
+    "iana": "America/Godthab"
+  },
+  {
+    "microsoftAlias": "Montevideo Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Montevideo",
+    "territory": "001",
+    "iana": "America/Montevideo"
+  },
+  {
+    "microsoftAlias": "Montevideo Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Montevideo",
+    "territory": "UY",
+    "iana": "America/Montevideo"
+  },
+  {
+    "microsoftAlias": "Magallanes Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Punta Arenas",
+    "territory": "001",
+    "iana": "America/Punta_Arenas"
+  },
+  {
+    "microsoftAlias": "Magallanes Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Punta Arenas",
+    "territory": "CL",
+    "iana": "America/Punta_Arenas"
+  },
+  {
+    "microsoftAlias": "Magallanes Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Punta Arenas",
+    "territory": "CL",
+    "iana": "America/Coyhaique"
+  },
+  {
+    "microsoftAlias": "Saint Pierre Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Saint Pierre and Miquelon",
+    "territory": "001",
+    "iana": "America/Miquelon"
+  },
+  {
+    "microsoftAlias": "Saint Pierre Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Saint Pierre and Miquelon",
+    "territory": "PM",
+    "iana": "America/Miquelon"
+  },
+  {
+    "microsoftAlias": "Bahia Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Salvador",
+    "territory": "001",
+    "iana": "America/Bahia"
+  },
+  {
+    "microsoftAlias": "Bahia Standard Time",
+    "microsoftDisplayName": "(UTC-03:00) Salvador",
+    "territory": "BR",
+    "iana": "America/Bahia"
+  },
+  {
+    "microsoftAlias": "UTC-02",
+    "microsoftDisplayName": "(UTC-02:00) Coordinated Universal Time-02",
+    "territory": "001",
+    "iana": "Etc/GMT+2"
+  },
+  {
+    "microsoftAlias": "UTC-02",
+    "microsoftDisplayName": "(UTC-02:00) Coordinated Universal Time-02",
+    "territory": "BR",
+    "iana": "America/Noronha"
+  },
+  {
+    "microsoftAlias": "UTC-02",
+    "microsoftDisplayName": "(UTC-02:00) Coordinated Universal Time-02",
+    "territory": "GS",
+    "iana": "Atlantic/South_Georgia"
+  },
+  {
+    "microsoftAlias": "UTC-02",
+    "microsoftDisplayName": "(UTC-02:00) Coordinated Universal Time-02",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+2"
+  },
+  {
+    "microsoftAlias": "Azores Standard Time",
+    "microsoftDisplayName": "(UTC-01:00) Azores",
+    "territory": "001",
+    "iana": "Atlantic/Azores"
+  },
+  {
+    "microsoftAlias": "Azores Standard Time",
+    "microsoftDisplayName": "(UTC-01:00) Azores",
+    "territory": "GL",
+    "iana": "America/Scoresbysund"
+  },
+  {
+    "microsoftAlias": "Azores Standard Time",
+    "microsoftDisplayName": "(UTC-01:00) Azores",
+    "territory": "PT",
+    "iana": "Atlantic/Azores"
+  },
+  {
+    "microsoftAlias": "Cape Verde Standard Time",
+    "microsoftDisplayName": "(UTC-01:00) Cabo Verde Is.",
+    "territory": "001",
+    "iana": "Atlantic/Cape_Verde"
+  },
+  {
+    "microsoftAlias": "Cape Verde Standard Time",
+    "microsoftDisplayName": "(UTC-01:00) Cabo Verde Is.",
+    "territory": "CV",
+    "iana": "Atlantic/Cape_Verde"
+  },
+  {
+    "microsoftAlias": "Cape Verde Standard Time",
+    "microsoftDisplayName": "(UTC-01:00) Cabo Verde Is.",
+    "territory": "ZZ",
+    "iana": "Etc/GMT+1"
+  },
+  {
+    "microsoftAlias": "UTC",
+    "microsoftDisplayName": "(UTC) Coordinated Universal Time",
+    "territory": "001",
+    "iana": "Etc/UTC"
+  },
+  {
+    "microsoftAlias": "UTC",
+    "microsoftDisplayName": "(UTC) Coordinated Universal Time",
+    "territory": "ZZ",
+    "iana": "Etc/UTC"
+  },
+  {
+    "microsoftAlias": "UTC",
+    "microsoftDisplayName": "(UTC) Coordinated Universal Time",
+    "territory": "ZZ",
+    "iana": "Etc/GMT"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "001",
+    "iana": "Europe/London"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "ES",
+    "iana": "Atlantic/Canary"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "FO",
+    "iana": "Atlantic/Faeroe"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "GB",
+    "iana": "Europe/London"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "GG",
+    "iana": "Europe/Guernsey"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "IE",
+    "iana": "Europe/Dublin"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "IM",
+    "iana": "Europe/Isle_of_Man"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "JE",
+    "iana": "Europe/Jersey"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "PT",
+    "iana": "Europe/Lisbon"
+  },
+  {
+    "microsoftAlias": "GMT Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+    "territory": "PT",
+    "iana": "Atlantic/Madeira"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "001",
+    "iana": "Atlantic/Reykjavik"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "BF",
+    "iana": "Africa/Ouagadougou"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "CI",
+    "iana": "Africa/Abidjan"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "GH",
+    "iana": "Africa/Accra"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "GL",
+    "iana": "America/Danmarkshavn"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "GM",
+    "iana": "Africa/Banjul"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "GN",
+    "iana": "Africa/Conakry"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "GW",
+    "iana": "Africa/Bissau"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "IS",
+    "iana": "Atlantic/Reykjavik"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "LR",
+    "iana": "Africa/Monrovia"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "ML",
+    "iana": "Africa/Bamako"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "MR",
+    "iana": "Africa/Nouakchott"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "SH",
+    "iana": "Atlantic/St_Helena"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "SL",
+    "iana": "Africa/Freetown"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "SN",
+    "iana": "Africa/Dakar"
+  },
+  {
+    "microsoftAlias": "Greenwich Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Monrovia, Reykjavik",
+    "territory": "TG",
+    "iana": "Africa/Lome"
+  },
+  {
+    "microsoftAlias": "Sao Tome Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Sao Tome",
+    "territory": "001",
+    "iana": "Africa/Sao_Tome"
+  },
+  {
+    "microsoftAlias": "Sao Tome Standard Time",
+    "microsoftDisplayName": "(UTC+00:00) Sao Tome",
+    "territory": "ST",
+    "iana": "Africa/Sao_Tome"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "001",
+    "iana": "Europe/Berlin"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "AD",
+    "iana": "Europe/Andorra"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "AT",
+    "iana": "Europe/Vienna"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "CH",
+    "iana": "Europe/Zurich"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "DE",
+    "iana": "Europe/Berlin"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "DE",
+    "iana": "Europe/Busingen"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "GI",
+    "iana": "Europe/Gibraltar"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "IT",
+    "iana": "Europe/Rome"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "LI",
+    "iana": "Europe/Vaduz"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "LU",
+    "iana": "Europe/Luxembourg"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "MC",
+    "iana": "Europe/Monaco"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "MT",
+    "iana": "Europe/Malta"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "NL",
+    "iana": "Europe/Amsterdam"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "NO",
+    "iana": "Europe/Oslo"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "SE",
+    "iana": "Europe/Stockholm"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "SJ",
+    "iana": "Arctic/Longyearbyen"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "SM",
+    "iana": "Europe/San_Marino"
+  },
+  {
+    "microsoftAlias": "W. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "territory": "VA",
+    "iana": "Europe/Vatican"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "001",
+    "iana": "Europe/Budapest"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "AL",
+    "iana": "Europe/Tirane"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "CZ",
+    "iana": "Europe/Prague"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "HU",
+    "iana": "Europe/Budapest"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "ME",
+    "iana": "Europe/Podgorica"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "RS",
+    "iana": "Europe/Belgrade"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "SI",
+    "iana": "Europe/Ljubljana"
+  },
+  {
+    "microsoftAlias": "Central Europe Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "territory": "SK",
+    "iana": "Europe/Bratislava"
+  },
+  {
+    "microsoftAlias": "Romance Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "territory": "001",
+    "iana": "Europe/Paris"
+  },
+  {
+    "microsoftAlias": "Romance Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "territory": "BE",
+    "iana": "Europe/Brussels"
+  },
+  {
+    "microsoftAlias": "Romance Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "territory": "DK",
+    "iana": "Europe/Copenhagen"
+  },
+  {
+    "microsoftAlias": "Romance Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "territory": "ES",
+    "iana": "Europe/Madrid"
+  },
+  {
+    "microsoftAlias": "Romance Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "territory": "ES",
+    "iana": "Africa/Ceuta"
+  },
+  {
+    "microsoftAlias": "Romance Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "territory": "FR",
+    "iana": "Europe/Paris"
+  },
+  {
+    "microsoftAlias": "Morocco Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Casablanca",
+    "territory": "001",
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "microsoftAlias": "Morocco Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Casablanca",
+    "territory": "EH",
+    "iana": "Africa/El_Aaiun"
+  },
+  {
+    "microsoftAlias": "Morocco Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Casablanca",
+    "territory": "MA",
+    "iana": "Africa/Casablanca"
+  },
+  {
+    "microsoftAlias": "Central European Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+    "territory": "001",
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "microsoftAlias": "Central European Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+    "territory": "BA",
+    "iana": "Europe/Sarajevo"
+  },
+  {
+    "microsoftAlias": "Central European Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+    "territory": "HR",
+    "iana": "Europe/Zagreb"
+  },
+  {
+    "microsoftAlias": "Central European Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+    "territory": "MK",
+    "iana": "Europe/Skopje"
+  },
+  {
+    "microsoftAlias": "Central European Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+    "territory": "PL",
+    "iana": "Europe/Warsaw"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "001",
+    "iana": "Africa/Lagos"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "AO",
+    "iana": "Africa/Luanda"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "BJ",
+    "iana": "Africa/Porto-Novo"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "CD",
+    "iana": "Africa/Kinshasa"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "CF",
+    "iana": "Africa/Bangui"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "CG",
+    "iana": "Africa/Brazzaville"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "CM",
+    "iana": "Africa/Douala"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "DZ",
+    "iana": "Africa/Algiers"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "GA",
+    "iana": "Africa/Libreville"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "GQ",
+    "iana": "Africa/Malabo"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "NE",
+    "iana": "Africa/Niamey"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "NG",
+    "iana": "Africa/Lagos"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "TD",
+    "iana": "Africa/Ndjamena"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "TN",
+    "iana": "Africa/Tunis"
+  },
+  {
+    "microsoftAlias": "W. Central Africa Standard Time",
+    "microsoftDisplayName": "(UTC+01:00) West Central Africa",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-1"
+  },
+  {
+    "microsoftAlias": "Jordan Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Amman",
+    "territory": "001",
+    "iana": "Asia/Amman"
+  },
+  {
+    "microsoftAlias": "Jordan Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Amman",
+    "territory": "JO",
+    "iana": "Asia/Amman"
+  },
+  {
+    "microsoftAlias": "GTB Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Athens, Bucharest",
+    "territory": "001",
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "microsoftAlias": "GTB Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Athens, Bucharest",
+    "territory": "CY",
+    "iana": "Asia/Nicosia"
+  },
+  {
+    "microsoftAlias": "GTB Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Athens, Bucharest",
+    "territory": "CY",
+    "iana": "Asia/Famagusta"
+  },
+  {
+    "microsoftAlias": "GTB Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Athens, Bucharest",
+    "territory": "GR",
+    "iana": "Europe/Athens"
+  },
+  {
+    "microsoftAlias": "GTB Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Athens, Bucharest",
+    "territory": "RO",
+    "iana": "Europe/Bucharest"
+  },
+  {
+    "microsoftAlias": "Middle East Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Beirut",
+    "territory": "001",
+    "iana": "Asia/Beirut"
+  },
+  {
+    "microsoftAlias": "Middle East Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Beirut",
+    "territory": "LB",
+    "iana": "Asia/Beirut"
+  },
+  {
+    "microsoftAlias": "Egypt Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Cairo",
+    "territory": "001",
+    "iana": "Africa/Cairo"
+  },
+  {
+    "microsoftAlias": "Egypt Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Cairo",
+    "territory": "EG",
+    "iana": "Africa/Cairo"
+  },
+  {
+    "microsoftAlias": "E. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Chisinau",
+    "territory": "001",
+    "iana": "Europe/Chisinau"
+  },
+  {
+    "microsoftAlias": "E. Europe Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Chisinau",
+    "territory": "MD",
+    "iana": "Europe/Chisinau"
+  },
+  {
+    "microsoftAlias": "Syria Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Damascus",
+    "territory": "001",
+    "iana": "Asia/Damascus"
+  },
+  {
+    "microsoftAlias": "Syria Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Damascus",
+    "territory": "SY",
+    "iana": "Asia/Damascus"
+  },
+  {
+    "microsoftAlias": "West Bank Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Gaza, Hebron",
+    "territory": "001",
+    "iana": "Asia/Hebron"
+  },
+  {
+    "microsoftAlias": "West Bank Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Gaza, Hebron",
+    "territory": "PS",
+    "iana": "Asia/Hebron"
+  },
+  {
+    "microsoftAlias": "West Bank Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Gaza, Hebron",
+    "territory": "PS",
+    "iana": "Asia/Gaza"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "001",
+    "iana": "Africa/Johannesburg"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "BI",
+    "iana": "Africa/Bujumbura"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "BW",
+    "iana": "Africa/Gaborone"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "CD",
+    "iana": "Africa/Lubumbashi"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "LS",
+    "iana": "Africa/Maseru"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "MW",
+    "iana": "Africa/Blantyre"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "MZ",
+    "iana": "Africa/Maputo"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "RW",
+    "iana": "Africa/Kigali"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "SZ",
+    "iana": "Africa/Mbabane"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "ZA",
+    "iana": "Africa/Johannesburg"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "ZM",
+    "iana": "Africa/Lusaka"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "ZW",
+    "iana": "Africa/Harare"
+  },
+  {
+    "microsoftAlias": "South Africa Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Harare, Pretoria",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-2"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "001",
+    "iana": "Europe/Kiev"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "AX",
+    "iana": "Europe/Mariehamn"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "BG",
+    "iana": "Europe/Sofia"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "EE",
+    "iana": "Europe/Tallinn"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "FI",
+    "iana": "Europe/Helsinki"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "LT",
+    "iana": "Europe/Vilnius"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "LV",
+    "iana": "Europe/Riga"
+  },
+  {
+    "microsoftAlias": "FLE Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "territory": "UA",
+    "iana": "Europe/Kiev"
+  },
+  {
+    "microsoftAlias": "Israel Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Jerusalem",
+    "territory": "001",
+    "iana": "Asia/Jerusalem"
+  },
+  {
+    "microsoftAlias": "Israel Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Jerusalem",
+    "territory": "IL",
+    "iana": "Asia/Jerusalem"
+  },
+  {
+    "microsoftAlias": "South Sudan Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Juba",
+    "territory": "001",
+    "iana": "Africa/Juba"
+  },
+  {
+    "microsoftAlias": "South Sudan Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Juba",
+    "territory": "SS",
+    "iana": "Africa/Juba"
+  },
+  {
+    "microsoftAlias": "Kaliningrad Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Kaliningrad",
+    "territory": "001",
+    "iana": "Europe/Kaliningrad"
+  },
+  {
+    "microsoftAlias": "Kaliningrad Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Kaliningrad",
+    "territory": "RU",
+    "iana": "Europe/Kaliningrad"
+  },
+  {
+    "microsoftAlias": "Sudan Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Khartoum",
+    "territory": "001",
+    "iana": "Africa/Khartoum"
+  },
+  {
+    "microsoftAlias": "Sudan Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Khartoum",
+    "territory": "SD",
+    "iana": "Africa/Khartoum"
+  },
+  {
+    "microsoftAlias": "Libya Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Tripoli",
+    "territory": "001",
+    "iana": "Africa/Tripoli"
+  },
+  {
+    "microsoftAlias": "Libya Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Tripoli",
+    "territory": "LY",
+    "iana": "Africa/Tripoli"
+  },
+  {
+    "microsoftAlias": "Namibia Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Windhoek",
+    "territory": "001",
+    "iana": "Africa/Windhoek"
+  },
+  {
+    "microsoftAlias": "Namibia Standard Time",
+    "microsoftDisplayName": "(UTC+02:00) Windhoek",
+    "territory": "NA",
+    "iana": "Africa/Windhoek"
+  },
+  {
+    "microsoftAlias": "Arabic Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Baghdad",
+    "territory": "001",
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "microsoftAlias": "Arabic Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Baghdad",
+    "territory": "IQ",
+    "iana": "Asia/Baghdad"
+  },
+  {
+    "microsoftAlias": "Turkey Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Istanbul",
+    "territory": "001",
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "microsoftAlias": "Turkey Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Istanbul",
+    "territory": "TR",
+    "iana": "Europe/Istanbul"
+  },
+  {
+    "microsoftAlias": "Arab Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Kuwait, Riyadh",
+    "territory": "001",
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "microsoftAlias": "Arab Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Kuwait, Riyadh",
+    "territory": "BH",
+    "iana": "Asia/Bahrain"
+  },
+  {
+    "microsoftAlias": "Arab Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Kuwait, Riyadh",
+    "territory": "KW",
+    "iana": "Asia/Kuwait"
+  },
+  {
+    "microsoftAlias": "Arab Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Kuwait, Riyadh",
+    "territory": "QA",
+    "iana": "Asia/Qatar"
+  },
+  {
+    "microsoftAlias": "Arab Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Kuwait, Riyadh",
+    "territory": "SA",
+    "iana": "Asia/Riyadh"
+  },
+  {
+    "microsoftAlias": "Arab Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Kuwait, Riyadh",
+    "territory": "YE",
+    "iana": "Asia/Aden"
+  },
+  {
+    "microsoftAlias": "Belarus Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Minsk",
+    "territory": "001",
+    "iana": "Europe/Minsk"
+  },
+  {
+    "microsoftAlias": "Belarus Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Minsk",
+    "territory": "BY",
+    "iana": "Europe/Minsk"
+  },
+  {
+    "microsoftAlias": "Russian Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Moscow, St. Petersburg",
+    "territory": "001",
+    "iana": "Europe/Moscow"
+  },
+  {
+    "microsoftAlias": "Russian Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Moscow, St. Petersburg",
+    "territory": "RU",
+    "iana": "Europe/Moscow"
+  },
+  {
+    "microsoftAlias": "Russian Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Moscow, St. Petersburg",
+    "territory": "RU",
+    "iana": "Europe/Kirov"
+  },
+  {
+    "microsoftAlias": "Russian Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Moscow, St. Petersburg",
+    "territory": "UA",
+    "iana": "Europe/Simferopol"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "001",
+    "iana": "Africa/Nairobi"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "AQ",
+    "iana": "Antarctica/Syowa"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "DJ",
+    "iana": "Africa/Djibouti"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "ER",
+    "iana": "Africa/Asmera"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "ET",
+    "iana": "Africa/Addis_Ababa"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "KE",
+    "iana": "Africa/Nairobi"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "KM",
+    "iana": "Indian/Comoro"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "MG",
+    "iana": "Indian/Antananarivo"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "SO",
+    "iana": "Africa/Mogadishu"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "TZ",
+    "iana": "Africa/Dar_es_Salaam"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "UG",
+    "iana": "Africa/Kampala"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "YT",
+    "iana": "Indian/Mayotte"
+  },
+  {
+    "microsoftAlias": "E. Africa Standard Time",
+    "microsoftDisplayName": "(UTC+03:00) Nairobi",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-3"
+  },
+  {
+    "microsoftAlias": "Iran Standard Time",
+    "microsoftDisplayName": "(UTC+03:30) Tehran",
+    "territory": "001",
+    "iana": "Asia/Tehran"
+  },
+  {
+    "microsoftAlias": "Iran Standard Time",
+    "microsoftDisplayName": "(UTC+03:30) Tehran",
+    "territory": "IR",
+    "iana": "Asia/Tehran"
+  },
+  {
+    "microsoftAlias": "Arabian Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Abu Dhabi, Muscat",
+    "territory": "001",
+    "iana": "Asia/Dubai"
+  },
+  {
+    "microsoftAlias": "Arabian Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Abu Dhabi, Muscat",
+    "territory": "AE",
+    "iana": "Asia/Dubai"
+  },
+  {
+    "microsoftAlias": "Arabian Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Abu Dhabi, Muscat",
+    "territory": "OM",
+    "iana": "Asia/Muscat"
+  },
+  {
+    "microsoftAlias": "Arabian Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Abu Dhabi, Muscat",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-4"
+  },
+  {
+    "microsoftAlias": "Astrakhan Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Astrakhan, Ulyanovsk",
+    "territory": "001",
+    "iana": "Europe/Astrakhan"
+  },
+  {
+    "microsoftAlias": "Astrakhan Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Astrakhan, Ulyanovsk",
+    "territory": "RU",
+    "iana": "Europe/Astrakhan"
+  },
+  {
+    "microsoftAlias": "Astrakhan Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Astrakhan, Ulyanovsk",
+    "territory": "RU",
+    "iana": "Europe/Ulyanovsk"
+  },
+  {
+    "microsoftAlias": "Azerbaijan Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Baku",
+    "territory": "001",
+    "iana": "Asia/Baku"
+  },
+  {
+    "microsoftAlias": "Azerbaijan Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Baku",
+    "territory": "AZ",
+    "iana": "Asia/Baku"
+  },
+  {
+    "microsoftAlias": "Russia Time Zone 3",
+    "microsoftDisplayName": "(UTC+04:00) Izhevsk, Samara",
+    "territory": "001",
+    "iana": "Europe/Samara"
+  },
+  {
+    "microsoftAlias": "Russia Time Zone 3",
+    "microsoftDisplayName": "(UTC+04:00) Izhevsk, Samara",
+    "territory": "RU",
+    "iana": "Europe/Samara"
+  },
+  {
+    "microsoftAlias": "Mauritius Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Port Louis",
+    "territory": "001",
+    "iana": "Indian/Mauritius"
+  },
+  {
+    "microsoftAlias": "Mauritius Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Port Louis",
+    "territory": "MU",
+    "iana": "Indian/Mauritius"
+  },
+  {
+    "microsoftAlias": "Mauritius Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Port Louis",
+    "territory": "RE",
+    "iana": "Indian/Reunion"
+  },
+  {
+    "microsoftAlias": "Mauritius Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Port Louis",
+    "territory": "SC",
+    "iana": "Indian/Mahe"
+  },
+  {
+    "microsoftAlias": "Saratov Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Saratov",
+    "territory": "001",
+    "iana": "Europe/Saratov"
+  },
+  {
+    "microsoftAlias": "Saratov Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Saratov",
+    "territory": "RU",
+    "iana": "Europe/Saratov"
+  },
+  {
+    "microsoftAlias": "Georgian Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Tbilisi",
+    "territory": "001",
+    "iana": "Asia/Tbilisi"
+  },
+  {
+    "microsoftAlias": "Georgian Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Tbilisi",
+    "territory": "GE",
+    "iana": "Asia/Tbilisi"
+  },
+  {
+    "microsoftAlias": "Volgograd Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Volgograd",
+    "territory": "001",
+    "iana": "Europe/Volgograd"
+  },
+  {
+    "microsoftAlias": "Volgograd Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Volgograd",
+    "territory": "RU",
+    "iana": "Europe/Volgograd"
+  },
+  {
+    "microsoftAlias": "Caucasus Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Yerevan",
+    "territory": "001",
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "microsoftAlias": "Caucasus Standard Time",
+    "microsoftDisplayName": "(UTC+04:00) Yerevan",
+    "territory": "AM",
+    "iana": "Asia/Yerevan"
+  },
+  {
+    "microsoftAlias": "Afghanistan Standard Time",
+    "microsoftDisplayName": "(UTC+04:30) Kabul",
+    "territory": "001",
+    "iana": "Asia/Kabul"
+  },
+  {
+    "microsoftAlias": "Afghanistan Standard Time",
+    "microsoftDisplayName": "(UTC+04:30) Kabul",
+    "territory": "AF",
+    "iana": "Asia/Kabul"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "001",
+    "iana": "Asia/Tashkent"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "AQ",
+    "iana": "Antarctica/Mawson"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "KZ",
+    "iana": "Asia/Oral"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "KZ",
+    "iana": "Asia/Almaty"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "KZ",
+    "iana": "Asia/Aqtau"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "KZ",
+    "iana": "Asia/Aqtobe"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "KZ",
+    "iana": "Asia/Atyrau"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "KZ",
+    "iana": "Asia/Qostanay"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "MV",
+    "iana": "Indian/Maldives"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "TF",
+    "iana": "Indian/Kerguelen"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "TJ",
+    "iana": "Asia/Dushanbe"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "TM",
+    "iana": "Asia/Ashgabat"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "UZ",
+    "iana": "Asia/Tashkent"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "UZ",
+    "iana": "Asia/Samarkand"
+  },
+  {
+    "microsoftAlias": "West Asia Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ashgabat, Tashkent",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-5"
+  },
+  {
+    "microsoftAlias": "Ekaterinburg Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ekaterinburg",
+    "territory": "001",
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "microsoftAlias": "Ekaterinburg Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Ekaterinburg",
+    "territory": "RU",
+    "iana": "Asia/Yekaterinburg"
+  },
+  {
+    "microsoftAlias": "Pakistan Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Islamabad, Karachi",
+    "territory": "001",
+    "iana": "Asia/Karachi"
+  },
+  {
+    "microsoftAlias": "Pakistan Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Islamabad, Karachi",
+    "territory": "PK",
+    "iana": "Asia/Karachi"
+  },
+  {
+    "microsoftAlias": "Qyzylorda Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Qyzylorda",
+    "territory": "001",
+    "iana": "Asia/Qyzylorda"
+  },
+  {
+    "microsoftAlias": "Qyzylorda Standard Time",
+    "microsoftDisplayName": "(UTC+05:00) Qyzylorda",
+    "territory": "KZ",
+    "iana": "Asia/Qyzylorda"
+  },
+  {
+    "microsoftAlias": "India Standard Time",
+    "microsoftDisplayName": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+    "territory": "001",
+    "iana": "Asia/Calcutta"
+  },
+  {
+    "microsoftAlias": "India Standard Time",
+    "microsoftDisplayName": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+    "territory": "IN",
+    "iana": "Asia/Calcutta"
+  },
+  {
+    "microsoftAlias": "Sri Lanka Standard Time",
+    "microsoftDisplayName": "(UTC+05:30) Sri Jayawardenepura",
+    "territory": "001",
+    "iana": "Asia/Colombo"
+  },
+  {
+    "microsoftAlias": "Sri Lanka Standard Time",
+    "microsoftDisplayName": "(UTC+05:30) Sri Jayawardenepura",
+    "territory": "LK",
+    "iana": "Asia/Colombo"
+  },
+  {
+    "microsoftAlias": "Nepal Standard Time",
+    "microsoftDisplayName": "(UTC+05:45) Kathmandu",
+    "territory": "001",
+    "iana": "Asia/Katmandu"
+  },
+  {
+    "microsoftAlias": "Nepal Standard Time",
+    "microsoftDisplayName": "(UTC+05:45) Kathmandu",
+    "territory": "NP",
+    "iana": "Asia/Katmandu"
+  },
+  {
+    "microsoftAlias": "Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Astana",
+    "territory": "001",
+    "iana": "Asia/Bishkek"
+  },
+  {
+    "microsoftAlias": "Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Astana",
+    "territory": "AQ",
+    "iana": "Antarctica/Vostok"
+  },
+  {
+    "microsoftAlias": "Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Astana",
+    "territory": "CN",
+    "iana": "Asia/Urumqi"
+  },
+  {
+    "microsoftAlias": "Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Astana",
+    "territory": "IO",
+    "iana": "Indian/Chagos"
+  },
+  {
+    "microsoftAlias": "Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Astana",
+    "territory": "KG",
+    "iana": "Asia/Bishkek"
+  },
+  {
+    "microsoftAlias": "Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Astana",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-6"
+  },
+  {
+    "microsoftAlias": "Bangladesh Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Dhaka",
+    "territory": "001",
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "microsoftAlias": "Bangladesh Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Dhaka",
+    "territory": "BD",
+    "iana": "Asia/Dhaka"
+  },
+  {
+    "microsoftAlias": "Bangladesh Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Dhaka",
+    "territory": "BT",
+    "iana": "Asia/Thimphu"
+  },
+  {
+    "microsoftAlias": "Omsk Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Omsk",
+    "territory": "001",
+    "iana": "Asia/Omsk"
+  },
+  {
+    "microsoftAlias": "Omsk Standard Time",
+    "microsoftDisplayName": "(UTC+06:00) Omsk",
+    "territory": "RU",
+    "iana": "Asia/Omsk"
+  },
+  {
+    "microsoftAlias": "Myanmar Standard Time",
+    "microsoftDisplayName": "(UTC+06:30) Yangon (Rangoon)",
+    "territory": "001",
+    "iana": "Asia/Rangoon"
+  },
+  {
+    "microsoftAlias": "Myanmar Standard Time",
+    "microsoftDisplayName": "(UTC+06:30) Yangon (Rangoon)",
+    "territory": "CC",
+    "iana": "Indian/Cocos"
+  },
+  {
+    "microsoftAlias": "Myanmar Standard Time",
+    "microsoftDisplayName": "(UTC+06:30) Yangon (Rangoon)",
+    "territory": "MM",
+    "iana": "Asia/Rangoon"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "001",
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "AQ",
+    "iana": "Antarctica/Davis"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "CX",
+    "iana": "Indian/Christmas"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "ID",
+    "iana": "Asia/Jakarta"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "ID",
+    "iana": "Asia/Pontianak"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "KH",
+    "iana": "Asia/Phnom_Penh"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "LA",
+    "iana": "Asia/Vientiane"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "TH",
+    "iana": "Asia/Bangkok"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "VN",
+    "iana": "Asia/Saigon"
+  },
+  {
+    "microsoftAlias": "SE Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-7"
+  },
+  {
+    "microsoftAlias": "Altai Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Barnaul, Gorno-Altaysk",
+    "territory": "001",
+    "iana": "Asia/Barnaul"
+  },
+  {
+    "microsoftAlias": "Altai Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Barnaul, Gorno-Altaysk",
+    "territory": "RU",
+    "iana": "Asia/Barnaul"
+  },
+  {
+    "microsoftAlias": "W. Mongolia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Hovd",
+    "territory": "001",
+    "iana": "Asia/Hovd"
+  },
+  {
+    "microsoftAlias": "W. Mongolia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Hovd",
+    "territory": "MN",
+    "iana": "Asia/Hovd"
+  },
+  {
+    "microsoftAlias": "North Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Krasnoyarsk",
+    "territory": "001",
+    "iana": "Asia/Krasnoyarsk"
+  },
+  {
+    "microsoftAlias": "North Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Krasnoyarsk",
+    "territory": "RU",
+    "iana": "Asia/Krasnoyarsk"
+  },
+  {
+    "microsoftAlias": "North Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Krasnoyarsk",
+    "territory": "RU",
+    "iana": "Asia/Novokuznetsk"
+  },
+  {
+    "microsoftAlias": "N. Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Novosibirsk",
+    "territory": "001",
+    "iana": "Asia/Novosibirsk"
+  },
+  {
+    "microsoftAlias": "N. Central Asia Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Novosibirsk",
+    "territory": "RU",
+    "iana": "Asia/Novosibirsk"
+  },
+  {
+    "microsoftAlias": "Tomsk Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Tomsk",
+    "territory": "001",
+    "iana": "Asia/Tomsk"
+  },
+  {
+    "microsoftAlias": "Tomsk Standard Time",
+    "microsoftDisplayName": "(UTC+07:00) Tomsk",
+    "territory": "RU",
+    "iana": "Asia/Tomsk"
+  },
+  {
+    "microsoftAlias": "China Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+    "territory": "001",
+    "iana": "Asia/Shanghai"
+  },
+  {
+    "microsoftAlias": "China Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+    "territory": "CN",
+    "iana": "Asia/Shanghai"
+  },
+  {
+    "microsoftAlias": "China Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+    "territory": "HK",
+    "iana": "Asia/Hong_Kong"
+  },
+  {
+    "microsoftAlias": "China Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+    "territory": "MO",
+    "iana": "Asia/Macau"
+  },
+  {
+    "microsoftAlias": "North Asia East Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Irkutsk",
+    "territory": "001",
+    "iana": "Asia/Irkutsk"
+  },
+  {
+    "microsoftAlias": "North Asia East Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Irkutsk",
+    "territory": "RU",
+    "iana": "Asia/Irkutsk"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "001",
+    "iana": "Asia/Singapore"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "BN",
+    "iana": "Asia/Brunei"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "ID",
+    "iana": "Asia/Makassar"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "MY",
+    "iana": "Asia/Kuala_Lumpur"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "MY",
+    "iana": "Asia/Kuching"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "PH",
+    "iana": "Asia/Manila"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "SG",
+    "iana": "Asia/Singapore"
+  },
+  {
+    "microsoftAlias": "Singapore Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-8"
+  },
+  {
+    "microsoftAlias": "W. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Perth",
+    "territory": "001",
+    "iana": "Australia/Perth"
+  },
+  {
+    "microsoftAlias": "W. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Perth",
+    "territory": "AU",
+    "iana": "Australia/Perth"
+  },
+  {
+    "microsoftAlias": "Taipei Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Taipei",
+    "territory": "001",
+    "iana": "Asia/Taipei"
+  },
+  {
+    "microsoftAlias": "Taipei Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Taipei",
+    "territory": "TW",
+    "iana": "Asia/Taipei"
+  },
+  {
+    "microsoftAlias": "Ulaanbaatar Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Ulaanbaatar",
+    "territory": "001",
+    "iana": "Asia/Ulaanbaatar"
+  },
+  {
+    "microsoftAlias": "Ulaanbaatar Standard Time",
+    "microsoftDisplayName": "(UTC+08:00) Ulaanbaatar",
+    "territory": "MN",
+    "iana": "Asia/Ulaanbaatar"
+  },
+  {
+    "microsoftAlias": "Aus Central W. Standard Time",
+    "microsoftDisplayName": "(UTC+08:45) Eucla",
+    "territory": "001",
+    "iana": "Australia/Eucla"
+  },
+  {
+    "microsoftAlias": "Aus Central W. Standard Time",
+    "microsoftDisplayName": "(UTC+08:45) Eucla",
+    "territory": "AU",
+    "iana": "Australia/Eucla"
+  },
+  {
+    "microsoftAlias": "Transbaikal Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Chita",
+    "territory": "001",
+    "iana": "Asia/Chita"
+  },
+  {
+    "microsoftAlias": "Transbaikal Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Chita",
+    "territory": "RU",
+    "iana": "Asia/Chita"
+  },
+  {
+    "microsoftAlias": "Tokyo Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "territory": "001",
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "microsoftAlias": "Tokyo Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "territory": "ID",
+    "iana": "Asia/Jayapura"
+  },
+  {
+    "microsoftAlias": "Tokyo Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "territory": "JP",
+    "iana": "Asia/Tokyo"
+  },
+  {
+    "microsoftAlias": "Tokyo Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "territory": "PW",
+    "iana": "Pacific/Palau"
+  },
+  {
+    "microsoftAlias": "Tokyo Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "territory": "TL",
+    "iana": "Asia/Dili"
+  },
+  {
+    "microsoftAlias": "Tokyo Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-9"
+  },
+  {
+    "microsoftAlias": "North Korea Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Pyongyang",
+    "territory": "001",
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "microsoftAlias": "North Korea Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Pyongyang",
+    "territory": "KP",
+    "iana": "Asia/Pyongyang"
+  },
+  {
+    "microsoftAlias": "Korea Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Seoul",
+    "territory": "001",
+    "iana": "Asia/Seoul"
+  },
+  {
+    "microsoftAlias": "Korea Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Seoul",
+    "territory": "KR",
+    "iana": "Asia/Seoul"
+  },
+  {
+    "microsoftAlias": "Yakutsk Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Yakutsk",
+    "territory": "001",
+    "iana": "Asia/Yakutsk"
+  },
+  {
+    "microsoftAlias": "Yakutsk Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Yakutsk",
+    "territory": "RU",
+    "iana": "Asia/Yakutsk"
+  },
+  {
+    "microsoftAlias": "Yakutsk Standard Time",
+    "microsoftDisplayName": "(UTC+09:00) Yakutsk",
+    "territory": "RU",
+    "iana": "Asia/Khandyga"
+  },
+  {
+    "microsoftAlias": "Cen. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+09:30) Adelaide",
+    "territory": "001",
+    "iana": "Australia/Adelaide"
+  },
+  {
+    "microsoftAlias": "Cen. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+09:30) Adelaide",
+    "territory": "AU",
+    "iana": "Australia/Adelaide"
+  },
+  {
+    "microsoftAlias": "Cen. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+09:30) Adelaide",
+    "territory": "AU",
+    "iana": "Australia/Broken_Hill"
+  },
+  {
+    "microsoftAlias": "AUS Central Standard Time",
+    "microsoftDisplayName": "(UTC+09:30) Darwin",
+    "territory": "001",
+    "iana": "Australia/Darwin"
+  },
+  {
+    "microsoftAlias": "AUS Central Standard Time",
+    "microsoftDisplayName": "(UTC+09:30) Darwin",
+    "territory": "AU",
+    "iana": "Australia/Darwin"
+  },
+  {
+    "microsoftAlias": "E. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Brisbane",
+    "territory": "001",
+    "iana": "Australia/Brisbane"
+  },
+  {
+    "microsoftAlias": "E. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Brisbane",
+    "territory": "AU",
+    "iana": "Australia/Brisbane"
+  },
+  {
+    "microsoftAlias": "E. Australia Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Brisbane",
+    "territory": "AU",
+    "iana": "Australia/Lindeman"
+  },
+  {
+    "microsoftAlias": "AUS Eastern Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Canberra, Melbourne, Sydney",
+    "territory": "001",
+    "iana": "Australia/Sydney"
+  },
+  {
+    "microsoftAlias": "AUS Eastern Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Canberra, Melbourne, Sydney",
+    "territory": "AU",
+    "iana": "Australia/Sydney"
+  },
+  {
+    "microsoftAlias": "AUS Eastern Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Canberra, Melbourne, Sydney",
+    "territory": "AU",
+    "iana": "Australia/Melbourne"
+  },
+  {
+    "microsoftAlias": "West Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Guam, Port Moresby",
+    "territory": "001",
+    "iana": "Pacific/Port_Moresby"
+  },
+  {
+    "microsoftAlias": "West Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Guam, Port Moresby",
+    "territory": "AQ",
+    "iana": "Antarctica/DumontDUrville"
+  },
+  {
+    "microsoftAlias": "West Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Guam, Port Moresby",
+    "territory": "FM",
+    "iana": "Pacific/Truk"
+  },
+  {
+    "microsoftAlias": "West Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Guam, Port Moresby",
+    "territory": "GU",
+    "iana": "Pacific/Guam"
+  },
+  {
+    "microsoftAlias": "West Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Guam, Port Moresby",
+    "territory": "MP",
+    "iana": "Pacific/Saipan"
+  },
+  {
+    "microsoftAlias": "West Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Guam, Port Moresby",
+    "territory": "PG",
+    "iana": "Pacific/Port_Moresby"
+  },
+  {
+    "microsoftAlias": "West Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Guam, Port Moresby",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-10"
+  },
+  {
+    "microsoftAlias": "Tasmania Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Hobart",
+    "territory": "001",
+    "iana": "Australia/Hobart"
+  },
+  {
+    "microsoftAlias": "Tasmania Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Hobart",
+    "territory": "AU",
+    "iana": "Australia/Hobart"
+  },
+  {
+    "microsoftAlias": "Tasmania Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Hobart",
+    "territory": "AU",
+    "iana": "Antarctica/Macquarie"
+  },
+  {
+    "microsoftAlias": "Vladivostok Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Vladivostok",
+    "territory": "001",
+    "iana": "Asia/Vladivostok"
+  },
+  {
+    "microsoftAlias": "Vladivostok Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Vladivostok",
+    "territory": "RU",
+    "iana": "Asia/Vladivostok"
+  },
+  {
+    "microsoftAlias": "Vladivostok Standard Time",
+    "microsoftDisplayName": "(UTC+10:00) Vladivostok",
+    "territory": "RU",
+    "iana": "Asia/Ust-Nera"
+  },
+  {
+    "microsoftAlias": "Lord Howe Standard Time",
+    "microsoftDisplayName": "(UTC+10:30) Lord Howe Island",
+    "territory": "001",
+    "iana": "Australia/Lord_Howe"
+  },
+  {
+    "microsoftAlias": "Lord Howe Standard Time",
+    "microsoftDisplayName": "(UTC+10:30) Lord Howe Island",
+    "territory": "AU",
+    "iana": "Australia/Lord_Howe"
+  },
+  {
+    "microsoftAlias": "Bougainville Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Bougainville Island",
+    "territory": "001",
+    "iana": "Pacific/Bougainville"
+  },
+  {
+    "microsoftAlias": "Bougainville Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Bougainville Island",
+    "territory": "PG",
+    "iana": "Pacific/Bougainville"
+  },
+  {
+    "microsoftAlias": "Russia Time Zone 10",
+    "microsoftDisplayName": "(UTC+11:00) Chokurdakh",
+    "territory": "001",
+    "iana": "Asia/Srednekolymsk"
+  },
+  {
+    "microsoftAlias": "Russia Time Zone 10",
+    "microsoftDisplayName": "(UTC+11:00) Chokurdakh",
+    "territory": "RU",
+    "iana": "Asia/Srednekolymsk"
+  },
+  {
+    "microsoftAlias": "Magadan Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Magadan",
+    "territory": "001",
+    "iana": "Asia/Magadan"
+  },
+  {
+    "microsoftAlias": "Magadan Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Magadan",
+    "territory": "RU",
+    "iana": "Asia/Magadan"
+  },
+  {
+    "microsoftAlias": "Norfolk Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Norfolk Island",
+    "territory": "001",
+    "iana": "Pacific/Norfolk"
+  },
+  {
+    "microsoftAlias": "Norfolk Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Norfolk Island",
+    "territory": "NF",
+    "iana": "Pacific/Norfolk"
+  },
+  {
+    "microsoftAlias": "Sakhalin Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Sakhalin",
+    "territory": "001",
+    "iana": "Asia/Sakhalin"
+  },
+  {
+    "microsoftAlias": "Sakhalin Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Sakhalin",
+    "territory": "RU",
+    "iana": "Asia/Sakhalin"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "001",
+    "iana": "Pacific/Guadalcanal"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "AQ",
+    "iana": "Antarctica/Casey"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "FM",
+    "iana": "Pacific/Ponape"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "FM",
+    "iana": "Pacific/Kosrae"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "NC",
+    "iana": "Pacific/Noumea"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "SB",
+    "iana": "Pacific/Guadalcanal"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "VU",
+    "iana": "Pacific/Efate"
+  },
+  {
+    "microsoftAlias": "Central Pacific Standard Time",
+    "microsoftDisplayName": "(UTC+11:00) Solomon Is., New Caledonia",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-11"
+  },
+  {
+    "microsoftAlias": "Russia Time Zone 11",
+    "microsoftDisplayName": "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky",
+    "territory": "001",
+    "iana": "Asia/Kamchatka"
+  },
+  {
+    "microsoftAlias": "Russia Time Zone 11",
+    "microsoftDisplayName": "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky",
+    "territory": "RU",
+    "iana": "Asia/Kamchatka"
+  },
+  {
+    "microsoftAlias": "Russia Time Zone 11",
+    "microsoftDisplayName": "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky",
+    "territory": "RU",
+    "iana": "Asia/Anadyr"
+  },
+  {
+    "microsoftAlias": "New Zealand Standard Time",
+    "microsoftDisplayName": "(UTC+12:00) Auckland, Wellington",
+    "territory": "001",
+    "iana": "Pacific/Auckland"
+  },
+  {
+    "microsoftAlias": "New Zealand Standard Time",
+    "microsoftDisplayName": "(UTC+12:00) Auckland, Wellington",
+    "territory": "AQ",
+    "iana": "Antarctica/McMurdo"
+  },
+  {
+    "microsoftAlias": "New Zealand Standard Time",
+    "microsoftDisplayName": "(UTC+12:00) Auckland, Wellington",
+    "territory": "NZ",
+    "iana": "Pacific/Auckland"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "001",
+    "iana": "Etc/GMT-12"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "KI",
+    "iana": "Pacific/Tarawa"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "MH",
+    "iana": "Pacific/Majuro"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "MH",
+    "iana": "Pacific/Kwajalein"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "NR",
+    "iana": "Pacific/Nauru"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "TV",
+    "iana": "Pacific/Funafuti"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "UM",
+    "iana": "Pacific/Wake"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "WF",
+    "iana": "Pacific/Wallis"
+  },
+  {
+    "microsoftAlias": "UTC+12",
+    "microsoftDisplayName": "(UTC+12:00) Coordinated Universal Time+12",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-12"
+  },
+  {
+    "microsoftAlias": "Fiji Standard Time",
+    "microsoftDisplayName": "(UTC+12:00) Fiji",
+    "territory": "001",
+    "iana": "Pacific/Fiji"
+  },
+  {
+    "microsoftAlias": "Fiji Standard Time",
+    "microsoftDisplayName": "(UTC+12:00) Fiji",
+    "territory": "FJ",
+    "iana": "Pacific/Fiji"
+  },
+  {
+    "microsoftAlias": "Chatham Islands Standard Time",
+    "microsoftDisplayName": "(UTC+12:45) Chatham Islands",
+    "territory": "001",
+    "iana": "Pacific/Chatham"
+  },
+  {
+    "microsoftAlias": "Chatham Islands Standard Time",
+    "microsoftDisplayName": "(UTC+12:45) Chatham Islands",
+    "territory": "NZ",
+    "iana": "Pacific/Chatham"
+  },
+  {
+    "microsoftAlias": "UTC+13",
+    "microsoftDisplayName": "(UTC+13:00) Coordinated Universal Time+13",
+    "territory": "001",
+    "iana": "Etc/GMT-13"
+  },
+  {
+    "microsoftAlias": "UTC+13",
+    "microsoftDisplayName": "(UTC+13:00) Coordinated Universal Time+13",
+    "territory": "KI",
+    "iana": "Pacific/Enderbury"
+  },
+  {
+    "microsoftAlias": "UTC+13",
+    "microsoftDisplayName": "(UTC+13:00) Coordinated Universal Time+13",
+    "territory": "TK",
+    "iana": "Pacific/Fakaofo"
+  },
+  {
+    "microsoftAlias": "UTC+13",
+    "microsoftDisplayName": "(UTC+13:00) Coordinated Universal Time+13",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-13"
+  },
+  {
+    "microsoftAlias": "Tonga Standard Time",
+    "microsoftDisplayName": "(UTC+13:00) Nuku'alofa",
+    "territory": "001",
+    "iana": "Pacific/Tongatapu"
+  },
+  {
+    "microsoftAlias": "Tonga Standard Time",
+    "microsoftDisplayName": "(UTC+13:00) Nuku'alofa",
+    "territory": "TO",
+    "iana": "Pacific/Tongatapu"
+  },
+  {
+    "microsoftAlias": "Samoa Standard Time",
+    "microsoftDisplayName": "(UTC+13:00) Samoa",
+    "territory": "001",
+    "iana": "Pacific/Apia"
+  },
+  {
+    "microsoftAlias": "Samoa Standard Time",
+    "microsoftDisplayName": "(UTC+13:00) Samoa",
+    "territory": "WS",
+    "iana": "Pacific/Apia"
+  },
+  {
+    "microsoftAlias": "Line Islands Standard Time",
+    "microsoftDisplayName": "(UTC+14:00) Kiritimati Island",
+    "territory": "001",
+    "iana": "Pacific/Kiritimati"
+  },
+  {
+    "microsoftAlias": "Line Islands Standard Time",
+    "microsoftDisplayName": "(UTC+14:00) Kiritimati Island",
+    "territory": "KI",
+    "iana": "Pacific/Kiritimati"
+  },
+  {
+    "microsoftAlias": "Line Islands Standard Time",
+    "microsoftDisplayName": "(UTC+14:00) Kiritimati Island",
+    "territory": "ZZ",
+    "iana": "Etc/GMT-14"
+  }
+]
