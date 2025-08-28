@@ -23,8 +23,8 @@ jobs:
         with:
           go-version: '1.21'
 
-      - name: Run generator
-        run: make generate
+      - name: Run generate & verify
+        run: make generate verify
 
       - name: Check for changes
         id: check_changes
