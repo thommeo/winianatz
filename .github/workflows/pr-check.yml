@@ -1,0 +1,41 @@
+name: PR Check - Generated Files
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  check-generated:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.21'
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y jq
+
+    - name: Run make all
+      run: make all
+
+    - name: Check for changes
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "Generated files are out of date!"
+          echo "The following files have changes after running 'make all':"
+          git status --porcelain
+          echo ""
+          echo "Please run 'make all' locally and commit the changes."
+          echo ""
+          echo "Diff:"
+          git diff
+          exit 1
+        else
+          echo "All generated files are up to date!"
+        fi

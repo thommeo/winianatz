@@ -60,6 +60,12 @@ type Entry struct {
 	IANA string
 }
 
+// SupportedTZID represents a supported IANA timezone identifier.
+type SupportedTZID struct {
+	// IANA is the standard IANA timezone identifier.
+	IANA string
+}
+
 var (
 	indexMicrosoftAlias       map[string][]int
 	indexMicrosoftDisplayName map[string][]int
@@ -258,6 +264,24 @@ func AllFromMicrosoftDisplayName(display string) []Entry {
 //	}
 func AllFromIANA(iana string) []Entry {
 	return collect(indexIANA[iana])
+}
+
+// GetSupportedTZIDs returns all supported IANA timezone identifiers.
+// The returned slice is sorted alphabetically by IANA timezone name.
+//
+// Each SupportedTZID contains the IANA timezone identifier.
+//
+// Example:
+//
+//	tzids := GetSupportedTZIDs()
+//	for _, tzid := range tzids {
+//		fmt.Printf("%s\n", tzid.IANA)
+//	}
+func GetSupportedTZIDs() []SupportedTZID {
+	// Return a copy to prevent external modification
+	result := make([]SupportedTZID, len(supportedTZIDs))
+	copy(result, supportedTZIDs)
+	return result
 }
 
 func collect(idx []int) []Entry {
