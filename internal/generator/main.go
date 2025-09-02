@@ -7,7 +7,6 @@ import (
 	"go/format"
 	"io"
 	"log"
-	"net/http"
 	"os"
 	"regexp"
 	"sort"
@@ -17,7 +16,6 @@ import (
 )
 
 const (
-	cldrURL  = "https://raw.githubusercontent.com/unicode-org/cldr/main/common/supplemental/windowsZones.xml"
 	xmlFile  = "references/windowsZones.xml"
 	goFile   = "data_gen.go"
 	jsonFile = "data_gen.json"
@@ -67,11 +65,6 @@ var data = []Entry{
 `
 
 func main() {
-	log.Println("Downloading windowsZones.xml from CLDR...")
-	if err := downloadFile(cldrURL, xmlFile); err != nil {
-		log.Fatalf("Failed to download XML: %v", err)
-	}
-
 	log.Println("Parsing XML...")
 	entries, err := parseXML(xmlFile)
 	if err != nil {
@@ -92,23 +85,6 @@ func main() {
 	}
 
 	log.Println("Successfully generated data_gen.go and data_gen.json")
-}
-
-func downloadFile(url, filepath string) error {
-	resp, err := http.Get(url)
-	if err != nil {
-		return err
-	}
-	defer resp.Body.Close()
-
-	out, err := os.Create(filepath)
-	if err != nil {
-		return err
-	}
-	defer out.Close()
-
-	_, err = io.Copy(out, resp.Body)
-	return err
 }
 
 func parseXML(filepath string) ([]Entry, error) {
