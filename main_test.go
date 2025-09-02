@@ -146,6 +146,31 @@ func TestAllFromIANA(t *testing.T) {
 	assert.Empty(t, entries, "Non-existent IANA timezone should return empty slice")
 }
 
+func TestGetSupportedTZIDs(t *testing.T) {
+	tzids := GetSupportedTZIDs()
+
+	require.NotEmpty(t, tzids, "GetSupportedTZIDs should return non-empty slice")
+
+	// Check that the slice is sorted alphabetically
+	for i := 1; i < len(tzids); i++ {
+		assert.True(t, tzids[i-1].IANA < tzids[i].IANA, "TZIDs should be sorted alphabetically")
+	}
+
+	// Check that all entries have IANA field
+	for _, tzid := range tzids {
+		assert.NotEmpty(t, tzid.IANA, "IANA field should not be empty")
+	}
+
+	found := false
+	for _, tzid := range tzids {
+		if tzid.IANA == "Pacific/Honolulu" {
+			found = true
+			break
+		}
+	}
+	assert.True(t, found, "Pacific/Honolulu should be in supported TZIDs")
+}
+
 // Test private helper functions
 
 func TestCollect(t *testing.T) {
