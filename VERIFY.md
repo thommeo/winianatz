@@ -152,7 +152,7 @@ The conversion is implemented based on [Unicode CLDR project's windowsZones.xml]
 
 ## IANA Timezone ID Verification
 
-This section verifies all IANA timezone IDs from [CLDR TZID.txt](./references/TZID.txt) against the winianatz FromIANA function.
+This section verifies all IANA timezone IDs from [CLDR idList.txt](./references/idList.txt) against the winianatz FromIANA function.
 
 **Summary:**
 - Total IANA timezones tested: 399
