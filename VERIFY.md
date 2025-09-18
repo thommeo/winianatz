@@ -155,10 +155,10 @@ The conversion is implemented based on [Unicode CLDR project's windowsZones.xml]
 This section verifies all IANA timezone IDs from [CLDR TZID.txt](./references/TZID.txt) against the winianatz FromIANA function.
 
 **Summary:**
-- Total IANA timezones tested: 402
-- Found in winianatz: 384
-- Missing from winianatz: 18
-- Coverage: 95.5%
+- Total IANA timezones tested: 399
+- Found in winianatz: 383
+- Missing from winianatz: 16
+- Coverage: 96.0%
 
 ### All IANA Timezone Results
 
@@ -391,7 +391,6 @@ This section verifies all IANA timezone IDs from [CLDR TZID.txt](./references/TZ
 | Asia/Pontianak | ID | ✅ SE Asia Standard Time |
 | Asia/Pyongyang | KP | ✅ North Korea Standard Time |
 | Asia/Qatar | QA | ✅ Arab Standard Time |
-| Asia/Qostanay | KZ | ✅ West Asia Standard Time |
 | Asia/Qyzylorda | KZ | ✅ Qyzylorda Standard Time |
 | Asia/Rangoon | MM | ✅ Myanmar Standard Time |
 | Asia/Riyadh | SA | ✅ Arab Standard Time |
@@ -525,8 +524,6 @@ This section verifies all IANA timezone IDs from [CLDR TZID.txt](./references/TZ
 | Indian/Mauritius | MU | ✅ Mauritius Standard Time |
 | Indian/Mayotte | YT | ✅ E. Africa Standard Time |
 | Indian/Reunion | RE | ✅ Mauritius Standard Time |
-| NONE | BV | ❌ Not found |
-| NONE2 | HM | ❌ Not found |
 | Pacific/Apia | WS | ✅ Samoa Standard Time |
 | Pacific/Auckland | NZ | ✅ New Zealand Standard Time |
 | Pacific/Chatham | NZ | ✅ Chatham Islands Standard Time |
@@ -610,7 +607,5 @@ The following IANA timezones from CLDR are not found in winianatz:
 - Europe/Belfast
 - Europe/Uzhgorod
 - Europe/Zaporozhye
-- NONE
-- NONE2
 - Pacific/Johnston
 - Pacific/Yap
